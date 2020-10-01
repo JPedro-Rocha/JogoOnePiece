@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: bf25b15e22a317246bf3c84b5fdbf08e
+guid: cb0c1252fc0d0884bbbcd4b9a8fda2a0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4153750392869969604
-    second: luffyIdleLeft_0
+      213: -7151080395901841597
+    second: luffyIdle_0
   - first:
-      213: 8689334938165520540
-    second: luffyIdleLeft_1
+      213: 2676861895155753406
+    second: luffyIdle_1
   - first:
-      213: -8865065453616081240
-    second: luffyIdleLeft_2
+      213: 4106809946203074683
+    second: luffyIdle_2
   - first:
-      213: -1958318675123786451
-    second: luffyIdleLeft_3
+      213: -83215451690292991
+    second: luffyIdle_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -111,13 +111,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: luffyIdleLeft_0
+      name: luffyIdle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 114
-        height: 119
+        width: 113.5
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -125,20 +125,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ce57ac89f515a930800000000000000
-      internalID: 4153750392869969604
+      spriteID: 34fc20a944242cc90800000000000000
+      internalID: -7151080395901841597
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: luffyIdleLeft_1
+      name: luffyIdle_1
       rect:
         serializedVersion: 2
-        x: 114
+        x: 113
         y: 0
-        width: 114
-        height: 119
+        width: 113.5
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +146,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c982fb39618b69870800000000000000
-      internalID: 8689334938165520540
+      spriteID: eb1a98506bf162520800000000000000
+      internalID: 2676861895155753406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: luffyIdleLeft_2
+      name: luffyIdle_2
       rect:
         serializedVersion: 2
-        x: 228
+        x: 226
         y: 0
-        width: 114
-        height: 119
+        width: 113.5
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,20 +167,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a650a660f5f8f480800000000000000
-      internalID: -8865065453616081240
+      spriteID: b70b97323e15ef830800000000000000
+      internalID: 4106809946203074683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: luffyIdleLeft_3
+      name: luffyIdle_3
       rect:
         serializedVersion: 2
-        x: 342
+        x: 339
         y: 0
-        width: 114
-        height: 119
+        width: 113.5
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,8 +188,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2dab346a87a2d4e0800000000000000
-      internalID: -1958318675123786451
+      spriteID: 1092d22dcfb58def0800000000000000
+      internalID: -83215451690292991
       vertices: []
       indices: 
       edges: []

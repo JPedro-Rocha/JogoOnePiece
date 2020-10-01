@@ -1,19 +1,28 @@
 fileFormatVersion: 2
-guid: ce7888b2073db3f438edde4c2de9098c
+guid: 1b64c4356900fe344aac8d82f97b411e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2647615392753069187
-    second: luffyIdleRight_0
+      213: -8313464521774037188
+    second: Luffy Jump Sprite_0
   - first:
-      213: -6210795406633973669
-    second: luffyIdleRight_1
+      213: 577757693311585640
+    second: Luffy Jump Sprite_1
   - first:
-      213: 6031839492267183151
-    second: luffyIdleRight_2
+      213: -496046868109984517
+    second: Luffy Jump Sprite_2
   - first:
-      213: -2537458493524748236
-    second: luffyIdleRight_3
+      213: 8348991298206506288
+    second: Luffy Jump Sprite_3
+  - first:
+      213: -7712957930635711747
+    second: Luffy Jump Sprite_4
+  - first:
+      213: 7632272354150867159
+    second: Luffy Jump Sprite_5
+  - first:
+      213: -1910112727557109483
+    second: Luffy Jump Sprite_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -111,13 +120,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: luffyIdleRight_0
+      name: Luffy Jump Sprite_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 114
-        height: 119
+        width: 122
+        height: 175
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -125,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38c27ea0c283eb420800000000000000
-      internalID: 2647615392753069187
+      spriteID: c3788d66014a0ac80800000000000000
+      internalID: -8313464521774037188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: luffyIdleRight_1
+      name: Luffy Jump Sprite_1
       rect:
         serializedVersion: 2
-        x: 114
+        x: 122
         y: 0
-        width: 114
-        height: 119
+        width: 122
+        height: 175
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5844fedb72dec9a0800000000000000
-      internalID: -6210795406633973669
+      spriteID: 86d061c9f8b940800800000000000000
+      internalID: 577757693311585640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: luffyIdleRight_2
+      name: Luffy Jump Sprite_2
       rect:
         serializedVersion: 2
-        x: 228
+        x: 244
         y: 0
-        width: 114
-        height: 119
+        width: 122
+        height: 175
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,20 +176,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2c02c66f0665b350800000000000000
-      internalID: 6031839492267183151
+      spriteID: bfcfb5a6000bd19f0800000000000000
+      internalID: -496046868109984517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: luffyIdleRight_3
+      name: Luffy Jump Sprite_3
       rect:
         serializedVersion: 2
-        x: 342
+        x: 366
         y: 0
-        width: 114
-        height: 119
+        width: 122
+        height: 175
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,8 +197,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 438d825b1f229ccd0800000000000000
-      internalID: -2537458493524748236
+      spriteID: 03d1d62d9539dd370800000000000000
+      internalID: 8348991298206506288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy Jump Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 122
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa2de880a116f490800000000000000
+      internalID: -7712957930635711747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy Jump Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 122
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d06232c4474be960800000000000000
+      internalID: 7632272354150867159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy Jump Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 122
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5198101389aed75e0800000000000000
+      internalID: -1910112727557109483
       vertices: []
       indices: 
       edges: []

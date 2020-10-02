@@ -1,0 +1,4376 @@
+fileFormatVersion: 2
+guid: 3b6d7bbab3e6b4d40be57ce7434ae139
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1283085274240948909
+    second: Boss 5 (Arlong)p1 2_0
+  - first:
+      213: 5937186146238376349
+    second: Boss 5 (Arlong)p1 2_1
+  - first:
+      213: 5448151973227901714
+    second: Boss 5 (Arlong)p1 2_2
+  - first:
+      213: -3083630987167109996
+    second: Boss 5 (Arlong)p1 2_3
+  - first:
+      213: -1537473466158549345
+    second: Boss 5 (Arlong)p1 2_4
+  - first:
+      213: 8669921709917411113
+    second: Boss 5 (Arlong)p1 2_5
+  - first:
+      213: -561528463372484462
+    second: Boss 5 (Arlong)p1 2_6
+  - first:
+      213: -409266684785784343
+    second: Boss 5 (Arlong)p1 2_7
+  - first:
+      213: -8311917331742389352
+    second: Boss 5 (Arlong)p1 2_8
+  - first:
+      213: 5225908226595675229
+    second: Boss 5 (Arlong)p1 2_9
+  - first:
+      213: 8822959134991608483
+    second: Boss 5 (Arlong)p1 2_10
+  - first:
+      213: 1675506836450522706
+    second: Boss 5 (Arlong)p1 2_11
+  - first:
+      213: 1191189031085037089
+    second: Boss 5 (Arlong)p1 2_12
+  - first:
+      213: 7418533442090552267
+    second: Boss 5 (Arlong)p1 2_13
+  - first:
+      213: 5932429874627523479
+    second: Boss 5 (Arlong)p1 2_14
+  - first:
+      213: -8376105725867137692
+    second: Boss 5 (Arlong)p1 2_15
+  - first:
+      213: -7578547287489877276
+    second: Boss 5 (Arlong)p1 2_16
+  - first:
+      213: 2506839346947507277
+    second: Boss 5 (Arlong)p1 2_17
+  - first:
+      213: 1642161159542884064
+    second: Boss 5 (Arlong)p1 2_18
+  - first:
+      213: -6398075432276063958
+    second: Boss 5 (Arlong)p1 2_19
+  - first:
+      213: 1440421552502618794
+    second: Boss 5 (Arlong)p1 2_20
+  - first:
+      213: 5326276504640029816
+    second: Boss 5 (Arlong)p1 2_21
+  - first:
+      213: -3549686278604247777
+    second: Boss 5 (Arlong)p1 2_22
+  - first:
+      213: -4737691152474822374
+    second: Boss 5 (Arlong)p1 2_23
+  - first:
+      213: -6336584289238301149
+    second: Boss 5 (Arlong)p1 2_24
+  - first:
+      213: 286078532906630657
+    second: Boss 5 (Arlong)p1 2_25
+  - first:
+      213: -4365087012491102826
+    second: Boss 5 (Arlong)p1 2_26
+  - first:
+      213: -2897483838713408536
+    second: Boss 5 (Arlong)p1 2_27
+  - first:
+      213: 3715086672661736661
+    second: Boss 5 (Arlong)p1 2_28
+  - first:
+      213: 569149009231302833
+    second: Boss 5 (Arlong)p1 2_29
+  - first:
+      213: -1900466640796436814
+    second: Boss 5 (Arlong)p1 2_30
+  - first:
+      213: -858687967404107510
+    second: Boss 5 (Arlong)p1 2_31
+  - first:
+      213: -8601628172135907033
+    second: Boss 5 (Arlong)p1 2_32
+  - first:
+      213: -1227025054536213774
+    second: Boss 5 (Arlong)p1 2_33
+  - first:
+      213: 1227794906500914102
+    second: Boss 5 (Arlong)p1 2_34
+  - first:
+      213: -7257387953816193222
+    second: Boss 5 (Arlong)p1 2_35
+  - first:
+      213: 7816511331987997893
+    second: Boss 5 (Arlong)p1 2_36
+  - first:
+      213: -722740087207496467
+    second: Boss 5 (Arlong)p1 2_37
+  - first:
+      213: -6474834445080138614
+    second: Boss 5 (Arlong)p1 2_38
+  - first:
+      213: -3074265213842149114
+    second: Boss 5 (Arlong)p1 2_39
+  - first:
+      213: 8265843219264113652
+    second: Boss 5 (Arlong)p1 2_40
+  - first:
+      213: 197363085637625859
+    second: Boss 5 (Arlong)p1 2_41
+  - first:
+      213: -3351750886116458327
+    second: Boss 5 (Arlong)p1 2_42
+  - first:
+      213: -6667682232647779629
+    second: Boss 5 (Arlong)p1 2_43
+  - first:
+      213: 4064464428532048337
+    second: Boss 5 (Arlong)p1 2_44
+  - first:
+      213: -161830300767678356
+    second: Boss 5 (Arlong)p1 2_45
+  - first:
+      213: -2750626551221390582
+    second: Boss 5 (Arlong)p1 2_46
+  - first:
+      213: -2472285403628593499
+    second: Boss 5 (Arlong)p1 2_47
+  - first:
+      213: -1082112800156114195
+    second: Boss 5 (Arlong)p1 2_48
+  - first:
+      213: 4202507802188264916
+    second: Boss 5 (Arlong)p1 2_49
+  - first:
+      213: -5963826741570173700
+    second: Boss 5 (Arlong)p1 2_50
+  - first:
+      213: -1769538680863536557
+    second: Boss 5 (Arlong)p1 2_51
+  - first:
+      213: 331725564471313336
+    second: Boss 5 (Arlong)p1 2_52
+  - first:
+      213: 8810538939672134780
+    second: Boss 5 (Arlong)p1 2_53
+  - first:
+      213: 1856756534061958556
+    second: Boss 5 (Arlong)p1 2_54
+  - first:
+      213: -1522184433597699143
+    second: Boss 5 (Arlong)p1 2_55
+  - first:
+      213: 3293476124219752519
+    second: Boss 5 (Arlong)p1 2_56
+  - first:
+      213: -2874469564956019526
+    second: Boss 5 (Arlong)p1 2_57
+  - first:
+      213: 3977059125076306915
+    second: Boss 5 (Arlong)p1 2_58
+  - first:
+      213: 580920279962806691
+    second: Boss 5 (Arlong)p1 2_59
+  - first:
+      213: -512491519979613587
+    second: Boss 5 (Arlong)p1 2_60
+  - first:
+      213: 4961072719881320329
+    second: Boss 5 (Arlong)p1 2_61
+  - first:
+      213: 5460664049100473470
+    second: Boss 5 (Arlong)p1 2_62
+  - first:
+      213: -2978971528920532426
+    second: Boss 5 (Arlong)p1 2_63
+  - first:
+      213: -3412001894242512413
+    second: Boss 5 (Arlong)p1 2_64
+  - first:
+      213: 2142341957745905539
+    second: Boss 5 (Arlong)p1 2_65
+  - first:
+      213: -665460598360082540
+    second: Boss 5 (Arlong)p1 2_66
+  - first:
+      213: -2108496971260025961
+    second: Boss 5 (Arlong)p1 2_67
+  - first:
+      213: -5114133408459242107
+    second: Boss 5 (Arlong)p1 2_68
+  - first:
+      213: -5283382600732208828
+    second: Boss 5 (Arlong)p1 2_69
+  - first:
+      213: -292430765208852659
+    second: Boss 5 (Arlong)p1 2_70
+  - first:
+      213: -6319988132905583548
+    second: Boss 5 (Arlong)p1 2_71
+  - first:
+      213: -1822304753432601195
+    second: Boss 5 (Arlong)p1 2_72
+  - first:
+      213: -5126601203776386819
+    second: Boss 5 (Arlong)p1 2_73
+  - first:
+      213: 1833892892659976664
+    second: Boss 5 (Arlong)p1 2_74
+  - first:
+      213: -5578059504951816849
+    second: Boss 5 (Arlong)p1 2_75
+  - first:
+      213: -4539250757128974783
+    second: Boss 5 (Arlong)p1 2_76
+  - first:
+      213: -9104126946046498008
+    second: Boss 5 (Arlong)p1 2_77
+  - first:
+      213: 3908056966958491741
+    second: Boss 5 (Arlong)p1 2_78
+  - first:
+      213: 8347970093647539
+    second: Boss 5 (Arlong)p1 2_79
+  - first:
+      213: -4144133327542562937
+    second: Boss 5 (Arlong)p1 2_80
+  - first:
+      213: -3115019836330441012
+    second: Boss 5 (Arlong)p1 2_81
+  - first:
+      213: -556226470727640510
+    second: Boss 5 (Arlong)p1 2_82
+  - first:
+      213: -6314985945660157444
+    second: Boss 5 (Arlong)p1 2_83
+  - first:
+      213: 478019562484880203
+    second: Boss 5 (Arlong)p1 2_84
+  - first:
+      213: 9093056277713717143
+    second: Boss 5 (Arlong)p1 2_85
+  - first:
+      213: 4569152487756996093
+    second: Boss 5 (Arlong)p1 2_86
+  - first:
+      213: 8053250425009203063
+    second: Boss 5 (Arlong)p1 2_87
+  - first:
+      213: 270938431889842581
+    second: Boss 5 (Arlong)p1 2_88
+  - first:
+      213: -90933091512618410
+    second: Boss 5 (Arlong)p1 2_89
+  - first:
+      213: -9068921087606849975
+    second: Boss 5 (Arlong)p1 2_90
+  - first:
+      213: 6226521824774569429
+    second: Boss 5 (Arlong)p1 2_91
+  - first:
+      213: -749128367607008752
+    second: Boss 5 (Arlong)p1 2_92
+  - first:
+      213: 4780861592306159207
+    second: Boss 5 (Arlong)p1 2_93
+  - first:
+      213: 1801367246640474887
+    second: Boss 5 (Arlong)p1 2_94
+  - first:
+      213: 6606632814239019155
+    second: Boss 5 (Arlong)p1 2_95
+  - first:
+      213: -1884831395129033961
+    second: Boss 5 (Arlong)p1 2_96
+  - first:
+      213: 284319779859084226
+    second: Boss 5 (Arlong)p1 2_97
+  - first:
+      213: 3681193093574130366
+    second: Boss 5 (Arlong)p1 2_98
+  - first:
+      213: 3070168470594548971
+    second: Boss 5 (Arlong)p1 2_99
+  - first:
+      213: 1499247609657010474
+    second: Boss 5 (Arlong)p1 2_100
+  - first:
+      213: 8400041834064247304
+    second: Boss 5 (Arlong)p1 2_101
+  - first:
+      213: 299421361435946138
+    second: Boss 5 (Arlong)p1 2_102
+  - first:
+      213: 8303283524137226597
+    second: Boss 5 (Arlong)p1 2_103
+  - first:
+      213: -1777243982539349720
+    second: Boss 5 (Arlong)p1 2_104
+  - first:
+      213: -2305513434972258822
+    second: Boss 5 (Arlong)p1 2_105
+  - first:
+      213: 5243023618800901201
+    second: Boss 5 (Arlong)p1 2_106
+  - first:
+      213: 1916036914732230976
+    second: Boss 5 (Arlong)p1 2_107
+  - first:
+      213: 4952035525954495848
+    second: Boss 5 (Arlong)p1 2_108
+  - first:
+      213: -4131135337527196537
+    second: Boss 5 (Arlong)p1 2_109
+  - first:
+      213: 5742548267764124500
+    second: Boss 5 (Arlong)p1 2_110
+  - first:
+      213: 4723537527869902325
+    second: Boss 5 (Arlong)p1 2_111
+  - first:
+      213: 8581134798651032102
+    second: Boss 5 (Arlong)p1 2_112
+  - first:
+      213: -5063112778006966938
+    second: Boss 5 (Arlong)p1 2_113
+  - first:
+      213: -5218959088306961812
+    second: Boss 5 (Arlong)p1 2_114
+  - first:
+      213: 5373171112424422519
+    second: Boss 5 (Arlong)p1 2_115
+  - first:
+      213: -3878134195972898053
+    second: Boss 5 (Arlong)p1 2_116
+  - first:
+      213: -206021435267319579
+    second: Boss 5 (Arlong)p1 2_117
+  - first:
+      213: 8793668196124319301
+    second: Boss 5 (Arlong)p1 2_118
+  - first:
+      213: -2285263065128052473
+    second: Boss 5 (Arlong)p1 2_119
+  - first:
+      213: -4501510805790045257
+    second: Boss 5 (Arlong)p1 2_120
+  - first:
+      213: -3184027121689605778
+    second: Boss 5 (Arlong)p1 2_121
+  - first:
+      213: 6441708001530481370
+    second: Boss 5 (Arlong)p1 2_122
+  - first:
+      213: 9222049628012295410
+    second: Boss 5 (Arlong)p1 2_123
+  - first:
+      213: 2867759918038649506
+    second: Boss 5 (Arlong)p1 2_124
+  - first:
+      213: 2279964488999814724
+    second: Boss 5 (Arlong)p1 2_125
+  - first:
+      213: -5872395347884669570
+    second: Boss 5 (Arlong)p1 2_126
+  - first:
+      213: 6074183792633785612
+    second: Boss 5 (Arlong)p1 2_127
+  - first:
+      213: 5247654584856099544
+    second: Boss 5 (Arlong)p1 2_128
+  - first:
+      213: -2807723101084834717
+    second: Boss 5 (Arlong)p1 2_129
+  - first:
+      213: -2598210392520462932
+    second: Boss 5 (Arlong)p1 2_130
+  - first:
+      213: -6469500758670301442
+    second: Boss 5 (Arlong)p1 2_131
+  - first:
+      213: -6470443635875824766
+    second: Boss 5 (Arlong)p1 2_132
+  - first:
+      213: 2798927423662552710
+    second: Boss 5 (Arlong)p1 2_133
+  - first:
+      213: 6706400861480498607
+    second: Boss 5 (Arlong)p1 2_134
+  - first:
+      213: -4434915304447133795
+    second: Boss 5 (Arlong)p1 2_135
+  - first:
+      213: 2387312355877007061
+    second: Boss 5 (Arlong)p1 2_136
+  - first:
+      213: -6496522793650640015
+    second: Boss 5 (Arlong)p1 2_137
+  - first:
+      213: 5780442728713117792
+    second: Boss 5 (Arlong)p1 2_138
+  - first:
+      213: -1548203098043477776
+    second: Boss 5 (Arlong)p1 2_139
+  - first:
+      213: 2379217696407185762
+    second: Boss 5 (Arlong)p1 2_140
+  - first:
+      213: 2508491520696948662
+    second: Boss 5 (Arlong)p1 2_141
+  - first:
+      213: -5238941660295802193
+    second: Boss 5 (Arlong)p1 2_142
+  - first:
+      213: -6858691884866938559
+    second: Boss 5 (Arlong)p1 2_143
+  - first:
+      213: 164230593679441046
+    second: Boss 5 (Arlong)p1 2_144
+  - first:
+      213: -4326027879035258654
+    second: Boss 5 (Arlong)p1 2_145
+  - first:
+      213: 3418474362528968135
+    second: Boss 5 (Arlong)p1 2_146
+  - first:
+      213: -6941985235189663660
+    second: Boss 5 (Arlong)p1 2_147
+  - first:
+      213: 7802467389604071333
+    second: Boss 5 (Arlong)p1 2_148
+  - first:
+      213: 4194505104227625820
+    second: Boss 5 (Arlong)p1 2_149
+  - first:
+      213: -4270999236694683487
+    second: Boss 5 (Arlong)p1 2_150
+  - first:
+      213: 1901578675853157144
+    second: Boss 5 (Arlong)p1 2_151
+  - first:
+      213: 8614298606899939362
+    second: Boss 5 (Arlong)p1 2_152
+  - first:
+      213: -5059516518574660137
+    second: Boss 5 (Arlong)p1 2_153
+  - first:
+      213: -736852615843755002
+    second: Boss 5 (Arlong)p1 2_154
+  - first:
+      213: 3648993566674671677
+    second: Boss 5 (Arlong)p1 2_155
+  - first:
+      213: 5229079555057442627
+    second: Boss 5 (Arlong)p1 2_156
+  - first:
+      213: -32591669372864235
+    second: Boss 5 (Arlong)p1 2_157
+  - first:
+      213: 223777099102916979
+    second: Boss 5 (Arlong)p1 2_158
+  - first:
+      213: -5491015780552368889
+    second: Boss 5 (Arlong)p1 2_159
+  - first:
+      213: -8237344737375131866
+    second: Boss 5 (Arlong)p1 2_160
+  - first:
+      213: 6459471844474082400
+    second: Boss 5 (Arlong)p1 2_161
+  - first:
+      213: -8087451546421068038
+    second: Boss 5 (Arlong)p1 2_162
+  - first:
+      213: 4015354449415952762
+    second: Boss 5 (Arlong)p1 2_163
+  - first:
+      213: -841395821952004255
+    second: Boss 5 (Arlong)p1 2_164
+  - first:
+      213: -5225224418199349252
+    second: Boss 5 (Arlong)p1 2_165
+  - first:
+      213: -8534446570209618750
+    second: Boss 5 (Arlong)p1 2_166
+  - first:
+      213: 1523143568357663005
+    second: Boss 5 (Arlong)p1 2_167
+  - first:
+      213: 3870908050814294805
+    second: Boss 5 (Arlong)p1 2_168
+  - first:
+      213: -2059195129197097396
+    second: Boss 5 (Arlong)p1 2_169
+  - first:
+      213: 6002005952020763952
+    second: Boss 5 (Arlong)p1 2_170
+  - first:
+      213: 5673450891693420377
+    second: Boss 5 (Arlong)p1 2_171
+  - first:
+      213: -5187063938792710015
+    second: Boss 5 (Arlong)p1 2_172
+  - first:
+      213: -7744135062335407100
+    second: Boss 5 (Arlong)p1 2_173
+  - first:
+      213: 2574062002670015879
+    second: Boss 5 (Arlong)p1 2_174
+  - first:
+      213: -5995746559442696600
+    second: Boss 5 (Arlong)p1 2_175
+  - first:
+      213: -3468811165018961364
+    second: Boss 5 (Arlong)p1 2_176
+  - first:
+      213: -9056338761846727276
+    second: Boss 5 (Arlong)p1 2_177
+  - first:
+      213: -4295735516304458189
+    second: Boss 5 (Arlong)p1 2_178
+  - first:
+      213: 5714147480977762583
+    second: Boss 5 (Arlong)p1 2_179
+  - first:
+      213: 8247945418872748983
+    second: Boss 5 (Arlong)p1 2_180
+  - first:
+      213: 7341497101885359130
+    second: Boss 5 (Arlong)p1 2_181
+  - first:
+      213: 5494648615326143630
+    second: Boss 5 (Arlong)p1 2_182
+  - first:
+      213: 5989803103478470867
+    second: Boss 5 (Arlong)p1 2_183
+  - first:
+      213: 2369834448801102541
+    second: Boss 5 (Arlong)p1 2_184
+  - first:
+      213: -75052160928885662
+    second: Boss 5 (Arlong)p1 2_185
+  - first:
+      213: 594662308196622373
+    second: Boss 5 (Arlong)p1 2_186
+  - first:
+      213: 6209846882823861617
+    second: Boss 5 (Arlong)p1 2_187
+  - first:
+      213: 4004352582013056561
+    second: Boss 5 (Arlong)p1 2_188
+  - first:
+      213: 4302561277494432090
+    second: Boss 5 (Arlong)p1 2_189
+  - first:
+      213: -9050495973632156782
+    second: Boss 5 (Arlong)p1 2_190
+  - first:
+      213: -4156121206137881755
+    second: Boss 5 (Arlong)p1 2_191
+  - first:
+      213: -460356668878773792
+    second: Boss 5 (Arlong)p1 2_192
+  - first:
+      213: 3244881741967497941
+    second: Boss 5 (Arlong)p1 2_193
+  - first:
+      213: 6887241451448735126
+    second: Boss 5 (Arlong)p1 2_194
+  - first:
+      213: -6138501890417962456
+    second: Boss 5 (Arlong)p1 2_195
+  - first:
+      213: -7304737495181202116
+    second: Boss 5 (Arlong)p1 2_196
+  - first:
+      213: -6754227371211557323
+    second: Boss 5 (Arlong)p1 2_197
+  - first:
+      213: 8395485076239598764
+    second: Boss 5 (Arlong)p1 2_198
+  - first:
+      213: 7036120978541821025
+    second: Boss 5 (Arlong)p1 2_199
+  - first:
+      213: 6815489327714655300
+    second: Boss 5 (Arlong)p1 2_200
+  - first:
+      213: 8993763524965456165
+    second: Boss 5 (Arlong)p1 2_201
+  - first:
+      213: 765463197610956170
+    second: Boss 5 (Arlong)p1 2_202
+  - first:
+      213: -3592950069528430311
+    second: Boss 5 (Arlong)p1 2_203
+  - first:
+      213: -2424688000094700547
+    second: Boss 5 (Arlong)p1 2_204
+  - first:
+      213: 3579693107831041638
+    second: Boss 5 (Arlong)p1 2_205
+  - first:
+      213: 990288017528742807
+    second: Boss 5 (Arlong)p1 2_206
+  - first:
+      213: -7984460726626127724
+    second: Boss 5 (Arlong)p1 2_207
+  - first:
+      213: -1858376737452999937
+    second: Boss 5 (Arlong)p1 2_208
+  - first:
+      213: 8297917450792790045
+    second: Boss 5 (Arlong)p1 2_209
+  - first:
+      213: -5430045464444020021
+    second: Boss 5 (Arlong)p1 2_210
+  - first:
+      213: 618745683137319344
+    second: Boss 5 (Arlong)p1 2_211
+  - first:
+      213: 5176128878737339220
+    second: Boss 5 (Arlong)p1 2_212
+  - first:
+      213: 7817362234332884135
+    second: Boss 5 (Arlong)p1 2_213
+  - first:
+      213: 4153399340488641494
+    second: Boss 5 (Arlong)p1 2_214
+  - first:
+      213: 1786409408077079251
+    second: Boss 5 (Arlong)p1 2_215
+  - first:
+      213: 443247145479585316
+    second: Boss 5 (Arlong)p1 2_216
+  - first:
+      213: -4215336890419279540
+    second: Boss 5 (Arlong)p1 2_217
+  - first:
+      213: 8183400140281168718
+    second: Boss 5 (Arlong)p1 2_218
+  - first:
+      213: -1754683851807980877
+    second: Boss 5 (Arlong)p1 2_219
+  - first:
+      213: -2592987429625801732
+    second: Boss 5 (Arlong)p1 2_220
+  - first:
+      213: -7907477654392073024
+    second: Boss 5 (Arlong)p1 2_221
+  - first:
+      213: 612494337949139421
+    second: Boss 5 (Arlong)p1 2_222
+  - first:
+      213: -6958039766402007281
+    second: Boss 5 (Arlong)p1 2_223
+  - first:
+      213: -5639345046892748457
+    second: Boss 5 (Arlong)p1 2_224
+  - first:
+      213: 3741032882536467089
+    second: Boss 5 (Arlong)p1 2_225
+  - first:
+      213: 5456074739825489079
+    second: Boss 5 (Arlong)p1 2_226
+  - first:
+      213: -797662183513993107
+    second: Boss 5 (Arlong)p1 2_227
+  - first:
+      213: -7749866011402852228
+    second: Boss 5 (Arlong)p1 2_228
+  - first:
+      213: -8313031162340477334
+    second: Boss 5 (Arlong)p1 2_229
+  - first:
+      213: -4951697431975912115
+    second: Boss 5 (Arlong)p1 2_230
+  - first:
+      213: 6222119293146554026
+    second: Boss 5 (Arlong)p1 2_231
+  - first:
+      213: 4582618329051529076
+    second: Boss 5 (Arlong)p1 2_232
+  - first:
+      213: -4689226433858852024
+    second: Boss 5 (Arlong)p1 2_233
+  - first:
+      213: 3156590985903767347
+    second: Boss 5 (Arlong)p1 2_234
+  - first:
+      213: 3246060279452852789
+    second: Boss 5 (Arlong)p1 2_235
+  - first:
+      213: -5032153456050395909
+    second: Boss 5 (Arlong)p1 2_236
+  - first:
+      213: 1978634839045445754
+    second: Boss 5 (Arlong)p1 2_237
+  - first:
+      213: 4313311776601642768
+    second: Boss 5 (Arlong)p1 2_238
+  - first:
+      213: 3806119165811356589
+    second: Boss 5 (Arlong)p1 2_239
+  - first:
+      213: -2810818146354654569
+    second: Boss 5 (Arlong)p1 2_240
+  - first:
+      213: 8962235261326870202
+    second: Boss 5 (Arlong)p1 2_241
+  - first:
+      213: -5689918627703005932
+    second: Boss 5 (Arlong)p1 2_242
+  - first:
+      213: -7380633048844101663
+    second: Boss 5 (Arlong)p1 2_243
+  - first:
+      213: -4910618897514147102
+    second: Boss 5 (Arlong)p1 2_244
+  - first:
+      213: -3449513167815947774
+    second: Boss 5 (Arlong)p1 2_245
+  - first:
+      213: -2954405420841190093
+    second: Boss 5 (Arlong)p1 2_246
+  - first:
+      213: 6815642901802940779
+    second: Boss 5 (Arlong)p1 2_247
+  - first:
+      213: -4181615457466532038
+    second: Boss 5 (Arlong)p1 2_248
+  - first:
+      213: 5243437310850834424
+    second: Boss 5 (Arlong)p1 2_249
+  - first:
+      213: 7039715023644890876
+    second: Boss 5 (Arlong)p1 2_250
+  - first:
+      213: 4052452996239934671
+    second: Boss 5 (Arlong)p1 2_251
+  - first:
+      213: -5559454668884558636
+    second: Boss 5 (Arlong)p1 2_252
+  - first:
+      213: -5080676657428639173
+    second: Boss 5 (Arlong)p1 2_253
+  - first:
+      213: 198814462103389380
+    second: Boss 5 (Arlong)p1 2_254
+  - first:
+      213: 1238074224863080698
+    second: Boss 5 (Arlong)p1 2_255
+  - first:
+      213: 1396664592717856471
+    second: Boss 5 (Arlong)p1 2_256
+  - first:
+      213: 6700405745885326594
+    second: Boss 5 (Arlong)p1 2_257
+  - first:
+      213: 71111399262333831
+    second: Boss 5 (Arlong)p1 2_258
+  - first:
+      213: 8247888248474209513
+    second: Boss 5 (Arlong)p1 2_259
+  - first:
+      213: -2444165659648151303
+    second: Boss 5 (Arlong)p1 2_260
+  - first:
+      213: 1109604181491820255
+    second: Boss 5 (Arlong)p1 2_261
+  - first:
+      213: 8962264782199499646
+    second: Boss 5 (Arlong)p1 2_262
+  - first:
+      213: -7785055917096147103
+    second: Boss 5 (Arlong)p1 2_263
+  - first:
+      213: 1016034405052944846
+    second: Boss 5 (Arlong)p1 2_264
+  - first:
+      213: -518527389370251352
+    second: Boss 5 (Arlong)p1 2_265
+  - first:
+      213: 474169697163291763
+    second: Boss 5 (Arlong)p1 2_266
+  - first:
+      213: -2202722505881537987
+    second: Boss 5 (Arlong)p1 2_267
+  - first:
+      213: -3044647431906750410
+    second: Boss 5 (Arlong)p1 2_268
+  - first:
+      213: -6198515991301744283
+    second: Boss 5 (Arlong)p1 2_269
+  - first:
+      213: 8092837045921625089
+    second: Boss 5 (Arlong)p1 2_270
+  - first:
+      213: -5076264656876515787
+    second: Boss 5 (Arlong)p1 2_271
+  - first:
+      213: -804411028909276483
+    second: Boss 5 (Arlong)p1 2_272
+  - first:
+      213: 8233627160099029253
+    second: Boss 5 (Arlong)p1 2_273
+  - first:
+      213: 1824858775314246709
+    second: Boss 5 (Arlong)p1 2_274
+  - first:
+      213: -244964468726441641
+    second: Boss 5 (Arlong)p1 2_275
+  - first:
+      213: 3646599257890329434
+    second: Boss 5 (Arlong)p1 2_276
+  - first:
+      213: -507024935905239141
+    second: Boss 5 (Arlong)p1 2_277
+  - first:
+      213: -5535775913992104890
+    second: Boss 5 (Arlong)p1 2_278
+  - first:
+      213: 3437689626954763555
+    second: Boss 5 (Arlong)p1 2_279
+  - first:
+      213: -5454575144354348000
+    second: Boss 5 (Arlong)p1 2_280
+  - first:
+      213: -6879809427285633611
+    second: Boss 5 (Arlong)p1 2_281
+  - first:
+      213: -6795798970050451180
+    second: Boss 5 (Arlong)p1 2_282
+  - first:
+      213: 642869517958486671
+    second: Boss 5 (Arlong)p1 2_283
+  - first:
+      213: -6616672180624753222
+    second: Boss 5 (Arlong)p1 2_284
+  - first:
+      213: -4690818347932472764
+    second: Boss 5 (Arlong)p1 2_285
+  - first:
+      213: -3825421632940910370
+    second: Boss 5 (Arlong)p1 2_286
+  - first:
+      213: 5818598804506797763
+    second: Boss 5 (Arlong)p1 2_287
+  - first:
+      213: 1162460766211754603
+    second: Boss 5 (Arlong)p1 2_288
+  - first:
+      213: 8239970114239494624
+    second: Boss 5 (Arlong)p1 2_289
+  - first:
+      213: -7324009255350235305
+    second: Boss 5 (Arlong)p1 2_290
+  - first:
+      213: 4438272461048234035
+    second: Boss 5 (Arlong)p1 2_291
+  - first:
+      213: -5831494217544871081
+    second: Boss 5 (Arlong)p1 2_292
+  - first:
+      213: -7226657272981771147
+    second: Boss 5 (Arlong)p1 2_293
+  - first:
+      213: -3513015221474694165
+    second: Boss 5 (Arlong)p1 2_294
+  - first:
+      213: 6462265087037473789
+    second: Boss 5 (Arlong)p1 2_295
+  - first:
+      213: -2728842651201925170
+    second: Boss 5 (Arlong)p1 2_296
+  - first:
+      213: -1893619607253514138
+    second: Boss 5 (Arlong)p1 2_297
+  - first:
+      213: -3243551888064076828
+    second: Boss 5 (Arlong)p1 2_298
+  - first:
+      213: 477208474514188752
+    second: Boss 5 (Arlong)p1 2_299
+  - first:
+      213: 7096969939566386489
+    second: Boss 5 (Arlong)p1 2_300
+  - first:
+      213: -2453835647052434387
+    second: Boss 5 (Arlong)p1 2_301
+  - first:
+      213: 2740083435919348738
+    second: Boss 5 (Arlong)p1 2_302
+  - first:
+      213: 4345569125754939577
+    second: Boss 5 (Arlong)p1 2_303
+  - first:
+      213: -2673872314206276673
+    second: Boss 5 (Arlong)p1 2_304
+  - first:
+      213: 7705986538944715324
+    second: Boss 5 (Arlong)p1 2_305
+  - first:
+      213: 6128690535890883841
+    second: Boss 5 (Arlong)p1 2_306
+  - first:
+      213: 4251713733187584506
+    second: Boss 5 (Arlong)p1 2_307
+  - first:
+      213: -8941488025675776835
+    second: Boss 5 (Arlong)p1 2_308
+  - first:
+      213: -8906689916396399160
+    second: Boss 5 (Arlong)p1 2_309
+  - first:
+      213: 8696219290610872020
+    second: Boss 5 (Arlong)p1 2_310
+  - first:
+      213: 4723272688436345787
+    second: Boss 5 (Arlong)p1 2_311
+  - first:
+      213: 2395972480436667058
+    second: Boss 5 (Arlong)p1 2_312
+  - first:
+      213: 4805847175332921060
+    second: Boss 5 (Arlong)p1 2_313
+  - first:
+      213: -3249714903573951018
+    second: Boss 5 (Arlong)p1 2_314
+  - first:
+      213: -6993717329839562068
+    second: Boss 5 (Arlong)p1 2_315
+  - first:
+      213: 4730440506233735882
+    second: Boss 5 (Arlong)p1 2_316
+  - first:
+      213: -8412399022061042154
+    second: Boss 5 (Arlong)p1 2_317
+  - first:
+      213: 4081014617111506951
+    second: Boss 5 (Arlong)p1 2_318
+  - first:
+      213: -8340123348255694066
+    second: Boss 5 (Arlong)p1 2_319
+  - first:
+      213: -2348446988989734132
+    second: Boss 5 (Arlong)p1 2_320
+  - first:
+      213: 685379369360305670
+    second: Boss 5 (Arlong)p1 2_321
+  - first:
+      213: 1083905919017986339
+    second: Boss 5 (Arlong)p1 2_322
+  - first:
+      213: 699047490688418014
+    second: Boss 5 (Arlong)p1 2_323
+  - first:
+      213: 5375491907718122377
+    second: Boss 5 (Arlong)p1 2_324
+  - first:
+      213: -6076952410324398495
+    second: Boss 5 (Arlong)p1 2_325
+  - first:
+      213: 5877996301012537308
+    second: Boss 5 (Arlong)p1 2_326
+  - first:
+      213: 3528904974710798781
+    second: Boss 5 (Arlong)p1 2_327
+  - first:
+      213: -5915133575679709013
+    second: Boss 5 (Arlong)p1 2_328
+  - first:
+      213: -5210699078217461894
+    second: Boss 5 (Arlong)p1 2_329
+  - first:
+      213: -5296035612397184396
+    second: Boss 5 (Arlong)p1 2_330
+  - first:
+      213: -4250362383042136339
+    second: Boss 5 (Arlong)p1 2_331
+  - first:
+      213: -7978839166973497142
+    second: Boss 5 (Arlong)p1 2_332
+  - first:
+      213: -71543592549530782
+    second: Boss 5 (Arlong)p1 2_333
+  - first:
+      213: 3430906588434671848
+    second: Boss 5 (Arlong)p1 2_334
+  - first:
+      213: 7377749323342305900
+    second: Boss 5 (Arlong)p1 2_335
+  - first:
+      213: -8665180068113039972
+    second: Boss 5 (Arlong)p1 2_336
+  - first:
+      213: 6021336348896583599
+    second: Boss 5 (Arlong)p1 2_337
+  - first:
+      213: 6540512645878379064
+    second: Boss 5 (Arlong)p1 2_338
+  - first:
+      213: -2841432131565649411
+    second: Boss 5 (Arlong)p1 2_339
+  - first:
+      213: 4142155228556786453
+    second: Boss 5 (Arlong)p1 2_340
+  - first:
+      213: 6410813717858392343
+    second: Boss 5 (Arlong)p1 2_341
+  - first:
+      213: -968213141666089387
+    second: Boss 5 (Arlong)p1 2_342
+  - first:
+      213: -7439126517221143807
+    second: Boss 5 (Arlong)p1 2_343
+  - first:
+      213: 1287673590288336816
+    second: Boss 5 (Arlong)p1 2_344
+  - first:
+      213: -6810992408595704099
+    second: Boss 5 (Arlong)p1 2_345
+  - first:
+      213: 100233301644881005
+    second: Boss 5 (Arlong)p1 2_346
+  - first:
+      213: -4984107079968586407
+    second: Boss 5 (Arlong)p1 2_347
+  - first:
+      213: -4335043112994382461
+    second: Boss 5 (Arlong)p1 2_348
+  - first:
+      213: 8816278425296329050
+    second: Boss 5 (Arlong)p1 2_349
+  - first:
+      213: 4884874684288951654
+    second: Boss 5 (Arlong)p1 2_350
+  - first:
+      213: -3267419188302849675
+    second: Boss 5 (Arlong)p1 2_351
+  - first:
+      213: 6666085922365394986
+    second: Boss 5 (Arlong)p1 2_352
+  - first:
+      213: -5568368297097866382
+    second: Boss 5 (Arlong)p1 2_353
+  - first:
+      213: -9221004269428972119
+    second: Boss 5 (Arlong)p1 2_354
+  - first:
+      213: -5684610360233915683
+    second: Boss 5 (Arlong)p1 2_355
+  - first:
+      213: 3822295820558518799
+    second: Boss 5 (Arlong)p1 2_356
+  - first:
+      213: 1306639791809535200
+    second: Boss 5 (Arlong)p1 2_357
+  - first:
+      213: -9148937194896669081
+    second: Boss 5 (Arlong)p1 2_358
+  - first:
+      213: -4458482280754756214
+    second: Boss 5 (Arlong)p1 2_359
+  - first:
+      213: -2790766640647941567
+    second: Boss 5 (Arlong)p1 2_360
+  - first:
+      213: -1985997993838081209
+    second: Boss 5 (Arlong)p1 2_361
+  - first:
+      213: -6281098452156855168
+    second: Boss 5 (Arlong)p1 2_362
+  - first:
+      213: -3775601530470526417
+    second: Boss 5 (Arlong)p1 2_363
+  - first:
+      213: 3997575444533036635
+    second: Boss 5 (Arlong)p1 2_364
+  - first:
+      213: 8555767978926544541
+    second: Boss 5 (Arlong)p1 2_365
+  - first:
+      213: -6523889675513874921
+    second: Boss 5 (Arlong)p1 2_366
+  - first:
+      213: 7570757856543046602
+    second: Boss 5 (Arlong)p1 2_367
+  - first:
+      213: 5524732300027615134
+    second: Boss 5 (Arlong)p1 2_368
+  - first:
+      213: 1344075378111898892
+    second: Boss 5 (Arlong)p1 2_369
+  - first:
+      213: -8334120222714019550
+    second: Boss 5 (Arlong)p1 2_370
+  - first:
+      213: -4868287496033888769
+    second: Boss 5 (Arlong)p1 2_371
+  - first:
+      213: 2986432617095863302
+    second: Boss 5 (Arlong)p1 2_372
+  - first:
+      213: -6008721190239714963
+    second: Boss 5 (Arlong)p1 2_373
+  - first:
+      213: 7143304530766024206
+    second: Boss 5 (Arlong)p1 2_374
+  - first:
+      213: 8060950710813011082
+    second: Boss 5 (Arlong)p1 2_375
+  - first:
+      213: -8274178458863216600
+    second: Boss 5 (Arlong)p1 2_376
+  - first:
+      213: 7255972902309048608
+    second: Boss 5 (Arlong)p1 2_377
+  - first:
+      213: 8526612902329992561
+    second: Boss 5 (Arlong)p1 2_378
+  - first:
+      213: -7108189009432452977
+    second: Boss 5 (Arlong)p1 2_379
+  - first:
+      213: -5885628295072964830
+    second: Boss 5 (Arlong)p1 2_380
+  - first:
+      213: -5656366261722375223
+    second: Boss 5 (Arlong)p1 2_381
+  - first:
+      213: -2521945114637116694
+    second: Boss 5 (Arlong)p1 2_382
+  - first:
+      213: 3497780082281789991
+    second: Boss 5 (Arlong)p1 2_383
+  - first:
+      213: 9147794271575048904
+    second: Boss 5 (Arlong)p1 2_384
+  - first:
+      213: -1098820090170891616
+    second: Boss 5 (Arlong)p1 2_385
+  - first:
+      213: 5180583129099952724
+    second: Boss 5 (Arlong)p1 2_386
+  - first:
+      213: 1043925330663897245
+    second: Boss 5 (Arlong)p1 2_387
+  - first:
+      213: -376145552491048301
+    second: Boss 5 (Arlong)p1 2_388
+  - first:
+      213: 4919395628502746711
+    second: Boss 5 (Arlong)p1 2_389
+  - first:
+      213: -1220545651746935815
+    second: Boss 5 (Arlong)p1 2_390
+  - first:
+      213: 4444921090243353056
+    second: Boss 5 (Arlong)p1 2_391
+  - first:
+      213: -9165220095197767981
+    second: Boss 5 (Arlong)p1 2_392
+  - first:
+      213: -1504815075539500607
+    second: Boss 5 (Arlong)p1 2_393
+  - first:
+      213: -7073538353939849419
+    second: Boss 5 (Arlong)p1 2_394
+  - first:
+      213: -110303430510718963
+    second: Boss 5 (Arlong)p1 2_395
+  - first:
+      213: 1806457318075207771
+    second: Boss 5 (Arlong)p1 2_396
+  - first:
+      213: -8048000294567952879
+    second: Boss 5 (Arlong)p1 2_397
+  - first:
+      213: -6565929262860484799
+    second: Boss 5 (Arlong)p1 2_398
+  - first:
+      213: -2630339988259063122
+    second: Boss 5 (Arlong)p1 2_399
+  - first:
+      213: 2683549501089567855
+    second: Boss 5 (Arlong)p1 2_400
+  - first:
+      213: 3277767000287692972
+    second: Boss 5 (Arlong)p1 2_401
+  - first:
+      213: -204642322576073976
+    second: Boss 5 (Arlong)p1 2_402
+  - first:
+      213: 6864486490180882145
+    second: Boss 5 (Arlong)p1 2_403
+  - first:
+      213: 2077612212710395570
+    second: Boss 5 (Arlong)p1 2_404
+  - first:
+      213: -4607824282586857112
+    second: Boss 5 (Arlong)p1 2_405
+  - first:
+      213: -8968277730054023601
+    second: Boss 5 (Arlong)p1 2_406
+  - first:
+      213: -8088902653776934617
+    second: Boss 5 (Arlong)p1 2_407
+  - first:
+      213: -5379576171786942047
+    second: Boss 5 (Arlong)p1 2_408
+  - first:
+      213: 1791914901443203276
+    second: Boss 5 (Arlong)p1 2_409
+  - first:
+      213: 7418274451714361386
+    second: Boss 5 (Arlong)p1 2_410
+  - first:
+      213: -5657790706135113319
+    second: Boss 5 (Arlong)p1 2_411
+  - first:
+      213: 1397375578028300686
+    second: Boss 5 (Arlong)p1 2_412
+  - first:
+      213: -1301202045181451507
+    second: Boss 5 (Arlong)p1 2_413
+  - first:
+      213: -7994054316846739864
+    second: Boss 5 (Arlong)p1 2_414
+  - first:
+      213: 3040010790775432441
+    second: Boss 5 (Arlong)p1 2_415
+  - first:
+      213: 3811206227753045388
+    second: Boss 5 (Arlong)p1 2_416
+  - first:
+      213: 6970532524680908070
+    second: Boss 5 (Arlong)p1 2_417
+  - first:
+      213: 8470072181227343683
+    second: Boss 5 (Arlong)p1 2_418
+  - first:
+      213: -4271153917563509874
+    second: Boss 5 (Arlong)p1 2_419
+  - first:
+      213: -5957815553424902202
+    second: Boss 5 (Arlong)p1 2_420
+  - first:
+      213: 6262105783663393875
+    second: Boss 5 (Arlong)p1 2_421
+  - first:
+      213: 8689730726031271278
+    second: Boss 5 (Arlong)p1 2_422
+  - first:
+      213: 5073239761668071008
+    second: Boss 5 (Arlong)p1 2_423
+  - first:
+      213: 3973512187339032258
+    second: Boss 5 (Arlong)p1 2_424
+  - first:
+      213: -6087096589335983340
+    second: Boss 5 (Arlong)p1 2_425
+  - first:
+      213: 7787094131276215666
+    second: Boss 5 (Arlong)p1 2_426
+  - first:
+      213: -1115001195030903064
+    second: Boss 5 (Arlong)p1 2_427
+  - first:
+      213: -1264181694712701971
+    second: Boss 5 (Arlong)p1 2_428
+  - first:
+      213: 3315425619219667512
+    second: Boss 5 (Arlong)p1 2_429
+  - first:
+      213: 8533918875173809494
+    second: Boss 5 (Arlong)p1 2_430
+  - first:
+      213: -1036241380889011510
+    second: Boss 5 (Arlong)p1 2_431
+  - first:
+      213: 6187185475181875728
+    second: Boss 5 (Arlong)p1 2_432
+  - first:
+      213: -7938153832625453845
+    second: Boss 5 (Arlong)p1 2_433
+  - first:
+      213: -1612157964386555317
+    second: Boss 5 (Arlong)p1 2_434
+  - first:
+      213: -5989027963071373867
+    second: Boss 5 (Arlong)p1 2_435
+  - first:
+      213: 8032251936922332998
+    second: Boss 5 (Arlong)p1 2_436
+  - first:
+      213: -7917231115381262557
+    second: Boss 5 (Arlong)p1 2_437
+  - first:
+      213: -5079874999834062240
+    second: Boss 5 (Arlong)p1 2_438
+  - first:
+      213: -8896056039333041781
+    second: Boss 5 (Arlong)p1 2_439
+  - first:
+      213: -1990937437304979075
+    second: Boss 5 (Arlong)p1 2_440
+  - first:
+      213: -361510202509585502
+    second: Boss 5 (Arlong)p1 2_441
+  - first:
+      213: -7282632655959872893
+    second: Boss 5 (Arlong)p1 2_442
+  - first:
+      213: -6907625003925023389
+    second: Boss 5 (Arlong)p1 2_443
+  - first:
+      213: 5698060693755492240
+    second: Boss 5 (Arlong)p1 2_444
+  - first:
+      213: -7388541793443990899
+    second: Boss 5 (Arlong)p1 2_445
+  - first:
+      213: -3565465441664410067
+    second: Boss 5 (Arlong)p1 2_446
+  - first:
+      213: 819140331326241095
+    second: Boss 5 (Arlong)p1 2_447
+  - first:
+      213: -167963787178631720
+    second: Boss 5 (Arlong)p1 2_448
+  - first:
+      213: -1672010133470136619
+    second: Boss 5 (Arlong)p1 2_449
+  - first:
+      213: -5074610091075969022
+    second: Boss 5 (Arlong)p1 2_450
+  - first:
+      213: -1438501253057693489
+    second: Boss 5 (Arlong)p1 2_451
+  - first:
+      213: -8260902387633117764
+    second: Boss 5 (Arlong)p1 2_452
+  - first:
+      213: -3244125676019192034
+    second: Boss 5 (Arlong)p1 2_453
+  - first:
+      213: -8765352031322528047
+    second: Boss 5 (Arlong)p1 2_454
+  - first:
+      213: 385434982467770152
+    second: Boss 5 (Arlong)p1 2_455
+  - first:
+      213: -5654888805137000425
+    second: Boss 5 (Arlong)p1 2_456
+  - first:
+      213: -6361126280187126336
+    second: Boss 5 (Arlong)p1 2_457
+  - first:
+      213: 8978263471523686210
+    second: Boss 5 (Arlong)p1 2_458
+  - first:
+      213: 6255581350345968772
+    second: Boss 5 (Arlong)p1 2_459
+  - first:
+      213: 5671935118524287083
+    second: Boss 5 (Arlong)p1 2_460
+  - first:
+      213: 2402375180728363312
+    second: Boss 5 (Arlong)p1 2_461
+  - first:
+      213: -1189233245092501591
+    second: Boss 5 (Arlong)p1 2_462
+  - first:
+      213: 5263124809031777334
+    second: Boss 5 (Arlong)p1 2_463
+  - first:
+      213: 758511024757432176
+    second: Boss 5 (Arlong)p1 2_464
+  - first:
+      213: 8757523633822299316
+    second: Boss 5 (Arlong)p1 2_465
+  - first:
+      213: 5655908808550703900
+    second: Boss 5 (Arlong)p1 2_466
+  - first:
+      213: -1447144801695001288
+    second: Boss 5 (Arlong)p1 2_467
+  - first:
+      213: 6648756807705518910
+    second: Boss 5 (Arlong)p1 2_468
+  - first:
+      213: 3664962582569746953
+    second: Boss 5 (Arlong)p1 2_469
+  - first:
+      213: 6993375762247917066
+    second: Boss 5 (Arlong)p1 2_470
+  - first:
+      213: -8492503885842327773
+    second: Boss 5 (Arlong)p1 2_471
+  - first:
+      213: 1100678666663234126
+    second: Boss 5 (Arlong)p1 2_472
+  - first:
+      213: 2141198415565104374
+    second: Boss 5 (Arlong)p1 2_473
+  - first:
+      213: -1218531377442197645
+    second: Boss 5 (Arlong)p1 2_474
+  - first:
+      213: 3006219176026053551
+    second: Boss 5 (Arlong)p1 2_475
+  - first:
+      213: -8205966493838797681
+    second: Boss 5 (Arlong)p1 2_476
+  - first:
+      213: -5750618358620279370
+    second: Boss 5 (Arlong)p1 2_477
+  - first:
+      213: 4479734391680767103
+    second: Boss 5 (Arlong)p1 2_478
+  - first:
+      213: -7164606772696937762
+    second: Boss 5 (Arlong)p1 2_479
+  - first:
+      213: 4734177236316229030
+    second: Boss 5 (Arlong)p1 2_480
+  - first:
+      213: 8844740172576456755
+    second: Boss 5 (Arlong)p1 2_481
+  - first:
+      213: 6819442602839874582
+    second: Boss 5 (Arlong)p1 2_482
+  - first:
+      213: -2296393683489787473
+    second: Boss 5 (Arlong)p1 2_483
+  - first:
+      213: 9200715488251175262
+    second: Boss 5 (Arlong)p1 2_484
+  - first:
+      213: 1603307161161596343
+    second: Boss 5 (Arlong)p1 2_485
+  - first:
+      213: -4631006145645120125
+    second: Boss 5 (Arlong)p1 2_486
+  - first:
+      213: 8028132185109756677
+    second: Boss 5 (Arlong)p1 2_487
+  - first:
+      213: -7547342040825207022
+    second: Boss 5 (Arlong)p1 2_488
+  - first:
+      213: 5514794678359943005
+    second: Boss 5 (Arlong)p1 2_489
+  - first:
+      213: 5398574309664435256
+    second: Boss 5 (Arlong)p1 2_490
+  - first:
+      213: 5917014229295892798
+    second: Boss 5 (Arlong)p1 2_491
+  - first:
+      213: -379982063354370487
+    second: Boss 5 (Arlong)p1 2_492
+  - first:
+      213: 1726173695369471935
+    second: Boss 5 (Arlong)p1 2_493
+  - first:
+      213: 5064980508360942642
+    second: Boss 5 (Arlong)p1 2_494
+  - first:
+      213: 5570181784318273774
+    second: Boss 5 (Arlong)p1 2_495
+  - first:
+      213: 3609812225046980585
+    second: Boss 5 (Arlong)p1 2_496
+  - first:
+      213: -7046910417590039826
+    second: Boss 5 (Arlong)p1 2_497
+  - first:
+      213: -8061834569436373905
+    second: Boss 5 (Arlong)p1 2_498
+  - first:
+      213: 4327364970264406675
+    second: Boss 5 (Arlong)p1 2_499
+  - first:
+      213: 1131960824622899668
+    second: Boss 5 (Arlong)p1 2_500
+  - first:
+      213: -7748124098300236078
+    second: Boss 5 (Arlong)p1 2_501
+  - first:
+      213: -1337857640800337521
+    second: Boss 5 (Arlong)p1 2_502
+  - first:
+      213: 8599287142860315730
+    second: Boss 5 (Arlong)p1 2_503
+  - first:
+      213: 7088485539500529930
+    second: Boss 5 (Arlong)p1 2_504
+  - first:
+      213: -4950738037529790478
+    second: Boss 5 (Arlong)p1 2_505
+  - first:
+      213: -6404981145239502865
+    second: Boss 5 (Arlong)p1 2_506
+  - first:
+      213: -183940006355730534
+    second: Boss 5 (Arlong)p1 2_507
+  - first:
+      213: 2851447617991564175
+    second: Boss 5 (Arlong)p1 2_508
+  - first:
+      213: -3815933461858737004
+    second: Boss 5 (Arlong)p1 2_509
+  - first:
+      213: -4608194452044143227
+    second: Boss 5 (Arlong)p1 2_510
+  - first:
+      213: -2235387594328886607
+    second: Boss 5 (Arlong)p1 2_511
+  - first:
+      213: -6440126924688254171
+    second: Boss 5 (Arlong)p1 2_512
+  - first:
+      213: -5735141407131560402
+    second: Boss 5 (Arlong)p1 2_513
+  - first:
+      213: -138073377877539793
+    second: Boss 5 (Arlong)p1 2_514
+  - first:
+      213: -1601895904716820988
+    second: Boss 5 (Arlong)p1 2_515
+  - first:
+      213: 7554016912862613327
+    second: Boss 5 (Arlong)p1 2_516
+  - first:
+      213: 3113974551063533251
+    second: Boss 5 (Arlong)p1 2_517
+  - first:
+      213: -8511698440589092836
+    second: Boss 5 (Arlong)p1 2_518
+  - first:
+      213: -2702047368060919494
+    second: Boss 5 (Arlong)p1 2_519
+  - first:
+      213: 8950499264244080534
+    second: Boss 5 (Arlong)p1 2_520
+  - first:
+      213: -8378856464472691484
+    second: Boss 5 (Arlong)p1 2_521
+  - first:
+      213: -3406308766345782240
+    second: Boss 5 (Arlong)p1 2_522
+  - first:
+      213: -7189084133924413850
+    second: Boss 5 (Arlong)p1 2_523
+  - first:
+      213: -4283102250233054884
+    second: Boss 5 (Arlong)p1 2_524
+  - first:
+      213: 8559133254201937286
+    second: Boss 5 (Arlong)p1 2_525
+  - first:
+      213: -5150917547240027981
+    second: Boss 5 (Arlong)p1 2_526
+  - first:
+      213: 6833146650063140444
+    second: Boss 5 (Arlong)p1 2_527
+  - first:
+      213: -8474873412331497856
+    second: Boss 5 (Arlong)p1 2_528
+  - first:
+      213: 3056936097889529691
+    second: Boss 5 (Arlong)p1 2_529
+  - first:
+      213: 1194567777143358191
+    second: Boss 5 (Arlong)p1 2_530
+  - first:
+      213: 1023276146910123197
+    second: Boss 5 (Arlong)p1 2_531
+  - first:
+      213: 2442111740901784572
+    second: Boss 5 (Arlong)p1 2_532
+  - first:
+      213: 3754227730876868505
+    second: Boss 5 (Arlong)p1 2_533
+  - first:
+      213: 696637780047288119
+    second: Boss 5 (Arlong)p1 2_534
+  - first:
+      213: 2643245287620181083
+    second: Boss 5 (Arlong)p1 2_535
+  - first:
+      213: -5613526464924958330
+    second: Boss 5 (Arlong)p1 2_536
+  - first:
+      213: 2425613884900948839
+    second: Boss 5 (Arlong)p1 2_537
+  - first:
+      213: 6032127062084581221
+    second: Boss 5 (Arlong)p1 2_538
+  - first:
+      213: -8589816161377405695
+    second: Boss 5 (Arlong)p1 2_539
+  - first:
+      213: -5851742503982659204
+    second: Boss 5 (Arlong)p1 2_540
+  - first:
+      213: -4964121194379199242
+    second: Boss 5 (Arlong)p1 2_541
+  - first:
+      213: -852977401118585117
+    second: Boss 5 (Arlong)p1 2_542
+  - first:
+      213: 6023735417924400293
+    second: Boss 5 (Arlong)p1 2_543
+  - first:
+      213: 3639829232941158759
+    second: Boss 5 (Arlong)p1 2_544
+  - first:
+      213: 802937572238309080
+    second: Boss 5 (Arlong)p1 2_545
+  - first:
+      213: -1689308300907173970
+    second: Boss 5 (Arlong)p1 2_546
+  - first:
+      213: -5644792828295334840
+    second: Boss 5 (Arlong)p1 2_547
+  - first:
+      213: -4523242226182985343
+    second: Boss 5 (Arlong)p1 2_548
+  - first:
+      213: 7131830504256702951
+    second: Boss 5 (Arlong)p1 2_549
+  - first:
+      213: -3958257492856637767
+    second: Boss 5 (Arlong)p1 2_550
+  - first:
+      213: 3676636876048450910
+    second: Boss 5 (Arlong)p1 2_551
+  - first:
+      213: -7053648730880084628
+    second: Boss 5 (Arlong)p1 2_552
+  - first:
+      213: -9196931296895088943
+    second: Boss 5 (Arlong)p1 2_553
+  - first:
+      213: 6455246824872041580
+    second: Boss 5 (Arlong)p1 2_554
+  - first:
+      213: 8588955753844738175
+    second: Boss 5 (Arlong)p1 2_555
+  - first:
+      213: 3155755593142676346
+    second: Boss 5 (Arlong)p1 2_556
+  - first:
+      213: 4245616426737845359
+    second: Boss 5 (Arlong)p1 2_557
+  - first:
+      213: 1319395257021825292
+    second: Boss 5 (Arlong)p1 2_558
+  - first:
+      213: 5661855295391446376
+    second: Boss 5 (Arlong)p1 2_559
+  - first:
+      213: 8688025412928713508
+    second: Boss 5 (Arlong)p1 2_560
+  - first:
+      213: 6637419986478352419
+    second: Boss 5 (Arlong)p1 2_561
+  - first:
+      213: -2010144830112232752
+    second: Boss 5 (Arlong)p1 2_562
+  - first:
+      213: -8604633748368615829
+    second: Boss 5 (Arlong)p1 2_563
+  - first:
+      213: 3490518666151200459
+    second: Boss 5 (Arlong)p1 2_564
+  - first:
+      213: -3531662352846308586
+    second: Boss 5 (Arlong)p1 2_565
+  - first:
+      213: -7755064125418817804
+    second: Boss 5 (Arlong)p1 2_566
+  - first:
+      213: 8455673390182274448
+    second: Boss 5 (Arlong)p1 2_567
+  - first:
+      213: 3764500880632146639
+    second: Boss 5 (Arlong)p1 2_568
+  - first:
+      213: 2286135691669974720
+    second: Boss 5 (Arlong)p1 2_569
+  - first:
+      213: 2021407818340613383
+    second: Boss 5 (Arlong)p1 2_570
+  - first:
+      213: -3628188287657673984
+    second: Boss 5 (Arlong)p1 2_571
+  - first:
+      213: -9183534670555549016
+    second: Boss 5 (Arlong)p1 2_572
+  - first:
+      213: 3374299245946680915
+    second: Boss 5 (Arlong)p1 2_573
+  - first:
+      213: -8875669492054595558
+    second: Boss 5 (Arlong)p1 2_574
+  - first:
+      213: -2887706985712889135
+    second: Boss 5 (Arlong)p1 2_575
+  - first:
+      213: 3457086104911531816
+    second: Boss 5 (Arlong)p1 2_576
+  - first:
+      213: 7243941949242751622
+    second: Boss 5 (Arlong)p1 2_577
+  - first:
+      213: -550185930046378581
+    second: Boss 5 (Arlong)p1 2_578
+  - first:
+      213: -8855468036963963916
+    second: Boss 5 (Arlong)p1 2_579
+  - first:
+      213: 1743881799466313664
+    second: Boss 5 (Arlong)p1 2_580
+  - first:
+      213: -4087856094349571150
+    second: Boss 5 (Arlong)p1 2_581
+  - first:
+      213: -3409261404119687559
+    second: Boss 5 (Arlong)p1 2_582
+  - first:
+      213: 3384695581503076939
+    second: Boss 5 (Arlong)p1 2_583
+  - first:
+      213: 1392946815857262184
+    second: Boss 5 (Arlong)p1 2_584
+  - first:
+      213: -21085190786677980
+    second: Boss 5 (Arlong)p1 2_585
+  - first:
+      213: 3671375825425777540
+    second: Boss 5 (Arlong)p1 2_586
+  - first:
+      213: -1567372260906398944
+    second: Boss 5 (Arlong)p1 2_587
+  - first:
+      213: 1551879729675434097
+    second: Boss 5 (Arlong)p1 2_588
+  - first:
+      213: 3462971096224128588
+    second: Boss 5 (Arlong)p1 2_589
+  - first:
+      213: -3479496695210227659
+    second: Boss 5 (Arlong)p1 2_590
+  - first:
+      213: 5806004960754203071
+    second: Boss 5 (Arlong)p1 2_591
+  - first:
+      213: 3721619324953053912
+    second: Boss 5 (Arlong)p1 2_592
+  - first:
+      213: 6785441868416665835
+    second: Boss 5 (Arlong)p1 2_593
+  - first:
+      213: -4584509910434302329
+    second: Boss 5 (Arlong)p1 2_594
+  - first:
+      213: 5723473029791428934
+    second: Boss 5 (Arlong)p1 2_595
+  - first:
+      213: -3666247452474730801
+    second: Boss 5 (Arlong)p1 2_596
+  - first:
+      213: 7099790242757719620
+    second: Boss 5 (Arlong)p1 2_597
+  - first:
+      213: -4406624307595138656
+    second: Boss 5 (Arlong)p1 2_598
+  - first:
+      213: -780681180739063717
+    second: Boss 5 (Arlong)p1 2_599
+  - first:
+      213: -8264851130550981774
+    second: Boss 5 (Arlong)p1 2_600
+  - first:
+      213: 1940119700164364164
+    second: Boss 5 (Arlong)p1 2_601
+  - first:
+      213: 6300511350974743243
+    second: Boss 5 (Arlong)p1 2_602
+  - first:
+      213: -6393693622857689482
+    second: Boss 5 (Arlong)p1 2_603
+  - first:
+      213: -4774202447642094852
+    second: Boss 5 (Arlong)p1 2_604
+  - first:
+      213: 7661972177052929072
+    second: Boss 5 (Arlong)p1 2_605
+  - first:
+      213: 8965657619186809903
+    second: Boss 5 (Arlong)p1 2_606
+  - first:
+      213: 9019188251007144789
+    second: Boss 5 (Arlong)p1 2_607
+  - first:
+      213: -6440823561131695715
+    second: Boss 5 (Arlong)p1 2_608
+  - first:
+      213: -5930297529331849219
+    second: Boss 5 (Arlong)p1 2_609
+  - first:
+      213: -7922941204269644169
+    second: Boss 5 (Arlong)p1 2_610
+  - first:
+      213: 7886523989556246163
+    second: Boss 5 (Arlong)p1 2_611
+  - first:
+      213: -866824098437099872
+    second: Boss 5 (Arlong)p1 2_612
+  - first:
+      213: 910762706651624211
+    second: Boss 5 (Arlong)p1 2_613
+  - first:
+      213: -2907325360481724711
+    second: Boss 5 (Arlong)p1 2_614
+  - first:
+      213: 5936610175387691028
+    second: Boss 5 (Arlong)p1 2_615
+  - first:
+      213: -4514011365984156168
+    second: Boss 5 (Arlong)p1 2_616
+  - first:
+      213: -8126066846728292687
+    second: Boss 5 (Arlong)p1 2_617
+  - first:
+      213: 1382319471262098124
+    second: Boss 5 (Arlong)p1 2_618
+  - first:
+      213: -1984718921835999049
+    second: Boss 5 (Arlong)p1 2_619
+  - first:
+      213: 5032727334556382646
+    second: Boss 5 (Arlong)p1 2_620
+  - first:
+      213: 1962198183201255530
+    second: Boss 5 (Arlong)p1 2_621
+  - first:
+      213: 3963404801471124882
+    second: Boss 5 (Arlong)p1 2_622
+  - first:
+      213: -2920012841335872578
+    second: Boss 5 (Arlong)p1 2_623
+  - first:
+      213: 9156886474051851908
+    second: Boss 5 (Arlong)p1 2_624
+  - first:
+      213: -8346429256658154526
+    second: Boss 5 (Arlong)p1 2_625
+  - first:
+      213: -3247822396096706339
+    second: Boss 5 (Arlong)p1 2_626
+  - first:
+      213: 3576184109102985627
+    second: Boss 5 (Arlong)p1 2_627
+  - first:
+      213: -8336532128976121616
+    second: Boss 5 (Arlong)p1 2_628
+  - first:
+      213: -7664705635287276589
+    second: Boss 5 (Arlong)p1 2_629
+  - first:
+      213: 3268084356732836420
+    second: Boss 5 (Arlong)p1 2_630
+  - first:
+      213: 8811300533212579067
+    second: Boss 5 (Arlong)p1 2_631
+  - first:
+      213: 4705121677776203004
+    second: Boss 5 (Arlong)p1 2_632
+  - first:
+      213: -5002533959678175978
+    second: Boss 5 (Arlong)p1 2_633
+  - first:
+      213: -6715463966363583649
+    second: Boss 5 (Arlong)p1 2_634
+  - first:
+      213: -5186717863817285801
+    second: Boss 5 (Arlong)p1 2_635
+  - first:
+      213: -8007174953627928838
+    second: Boss 5 (Arlong)p1 2_636
+  - first:
+      213: 9029603574451202890
+    second: Boss 5 (Arlong)p1 2_637
+  - first:
+      213: -712798569874693693
+    second: Boss 5 (Arlong)p1 2_638
+  - first:
+      213: -4602621553959161603
+    second: Boss 5 (Arlong)p1 2_639
+  - first:
+      213: 673625986244134248
+    second: Boss 5 (Arlong)p1 2_640
+  - first:
+      213: -6016465578817912946
+    second: Boss 5 (Arlong)p1 2_641
+  - first:
+      213: -1624612230157810511
+    second: Boss 5 (Arlong)p1 2_642
+  - first:
+      213: -8734736301600401294
+    second: Boss 5 (Arlong)p1 2_643
+  - first:
+      213: 586559996717053977
+    second: Boss 5 (Arlong)p1 2_644
+  - first:
+      213: 4319178749019211748
+    second: Boss 5 (Arlong)p1 2_645
+  - first:
+      213: 1829066779905388573
+    second: Boss 5 (Arlong)p1 2_646
+  - first:
+      213: 7784528309120898985
+    second: Boss 5 (Arlong)p1 2_647
+  - first:
+      213: -7062499672848306658
+    second: Boss 5 (Arlong)p1 2_648
+  - first:
+      213: 8401210370087302912
+    second: Boss 5 (Arlong)p1 2_649
+  - first:
+      213: 6491410789310979436
+    second: Boss 5 (Arlong)p1 2_650
+  - first:
+      213: -2573028981275399097
+    second: Boss 5 (Arlong)p1 2_651
+  - first:
+      213: -1924314717252009739
+    second: Boss 5 (Arlong)p1 2_652
+  - first:
+      213: -1270821528621826538
+    second: Boss 5 (Arlong)p1 2_653
+  - first:
+      213: -1246431161143736999
+    second: Boss 5 (Arlong)p1 2_654
+  - first:
+      213: 3950920159440570717
+    second: Boss 5 (Arlong)p1 2_655
+  - first:
+      213: 3717452475386496350
+    second: Boss 5 (Arlong)p1 2_656
+  - first:
+      213: -1051343057419260327
+    second: Boss 5 (Arlong)p1 2_657
+  - first:
+      213: 6163575860823764231
+    second: Boss 5 (Arlong)p1 2_658
+  - first:
+      213: 5793558700577083683
+    second: Boss 5 (Arlong)p1 2_659
+  - first:
+      213: -3260718190708712756
+    second: Boss 5 (Arlong)p1 2_660
+  - first:
+      213: 802049536517654061
+    second: Boss 5 (Arlong)p1 2_661
+  - first:
+      213: 5889448065747362818
+    second: Boss 5 (Arlong)p1 2_662
+  - first:
+      213: -6441348565698314597
+    second: Boss 5 (Arlong)p1 2_663
+  - first:
+      213: -4677229698454375432
+    second: Boss 5 (Arlong)p1 2_664
+  - first:
+      213: -3620309814187338524
+    second: Boss 5 (Arlong)p1 2_665
+  - first:
+      213: 7804846331956535796
+    second: Boss 5 (Arlong)p1 2_666
+  - first:
+      213: 4587407621922226839
+    second: Boss 5 (Arlong)p1 2_667
+  - first:
+      213: -6708408956347623696
+    second: Boss 5 (Arlong)p1 2_668
+  - first:
+      213: 3235832060920568715
+    second: Boss 5 (Arlong)p1 2_669
+  - first:
+      213: -8205521946072384757
+    second: Boss 5 (Arlong)p1 2_670
+  - first:
+      213: 7475299053043975492
+    second: Boss 5 (Arlong)p1 2_671
+  - first:
+      213: -8386011055574456477
+    second: Boss 5 (Arlong)p1 2_672
+  - first:
+      213: 2225096855600885766
+    second: Boss 5 (Arlong)p1 2_673
+  - first:
+      213: 501071171926589840
+    second: Boss 5 (Arlong)p1 2_674
+  - first:
+      213: 4193927192296873907
+    second: Boss 5 (Arlong)p1 2_675
+  - first:
+      213: -8982303030021899615
+    second: Boss 5 (Arlong)p1 2_676
+  - first:
+      213: -4547672275514663106
+    second: Boss 5 (Arlong)p1 2_677
+  - first:
+      213: -4382105379334565985
+    second: Boss 5 (Arlong)p1 2_678
+  - first:
+      213: -5584742373228142317
+    second: Boss 5 (Arlong)p1 2_679
+  - first:
+      213: 7599525613014030891
+    second: Boss 5 (Arlong)p1 2_680
+  - first:
+      213: 7592980768348494730
+    second: Boss 5 (Arlong)p1 2_681
+  - first:
+      213: -2356602570177161753
+    second: Boss 5 (Arlong)p1 2_682
+  - first:
+      213: -2195831522609401992
+    second: Boss 5 (Arlong)p1 2_683
+  - first:
+      213: -6336563851477841961
+    second: Boss 5 (Arlong)p1 2_684
+  - first:
+      213: 2209681908338723253
+    second: Boss 5 (Arlong)p1 2_685
+  - first:
+      213: -3041712498882930296
+    second: Boss 5 (Arlong)p1 2_686
+  - first:
+      213: 7797547308299284517
+    second: Boss 5 (Arlong)p1 2_687
+  - first:
+      213: 6847070032481069215
+    second: Boss 5 (Arlong)p1 2_688
+  - first:
+      213: -2403683378531146908
+    second: Boss 5 (Arlong)p1 2_689
+  - first:
+      213: -6375318958342119167
+    second: Boss 5 (Arlong)p1 2_690
+  - first:
+      213: -5088037718598417728
+    second: Boss 5 (Arlong)p1 2_691
+  - first:
+      213: -2685771745473972163
+    second: Boss 5 (Arlong)p1 2_692
+  - first:
+      213: -6579477644533781332
+    second: Boss 5 (Arlong)p1 2_693
+  - first:
+      213: -5204452231418389475
+    second: Boss 5 (Arlong)p1 2_694
+  - first:
+      213: -624975479227407316
+    second: Boss 5 (Arlong)p1 2_695
+  - first:
+      213: -2539768181357745956
+    second: Boss 5 (Arlong)p1 2_696
+  - first:
+      213: -3961852926244742711
+    second: Boss 5 (Arlong)p1 2_697
+  - first:
+      213: 6749421191368140827
+    second: Boss 5 (Arlong)p1 2_698
+  - first:
+      213: 4654843215795152013
+    second: Boss 5 (Arlong)p1 2_699
+  - first:
+      213: 3297875476396262015
+    second: Boss 5 (Arlong)p1 2_700
+  - first:
+      213: -3812479003223618280
+    second: Boss 5 (Arlong)p1 2_701
+  - first:
+      213: 8324318747174319038
+    second: Boss 5 (Arlong)p1 2_702
+  - first:
+      213: 6268232341728778266
+    second: Boss 5 (Arlong)p1 2_703
+  - first:
+      213: 3098904879700991066
+    second: Boss 5 (Arlong)p1 2_704
+  - first:
+      213: -119153987917094692
+    second: Boss 5 (Arlong)p1 2_705
+  - first:
+      213: -8914403952762740212
+    second: Boss 5 (Arlong)p1 2_706
+  - first:
+      213: -186904228880110050
+    second: Boss 5 (Arlong)p1 2_707
+  - first:
+      213: -1471204431710757740
+    second: Boss 5 (Arlong)p1 2_708
+  - first:
+      213: -1060337183485373810
+    second: Boss 5 (Arlong)p1 2_709
+  - first:
+      213: -3343427069586687601
+    second: Boss 5 (Arlong)p1 2_710
+  - first:
+      213: -1208009138053595287
+    second: Boss 5 (Arlong)p1 2_711
+  - first:
+      213: 1321116021167947549
+    second: Boss 5 (Arlong)p1 2_712
+  - first:
+      213: -7108549771849883304
+    second: Boss 5 (Arlong)p1 2_713
+  - first:
+      213: 7691519381854347371
+    second: Boss 5 (Arlong)p1 2_714
+  - first:
+      213: 6498361771816958991
+    second: Boss 5 (Arlong)p1 2_715
+  - first:
+      213: -5282317236089629439
+    second: Boss 5 (Arlong)p1 2_716
+  - first:
+      213: 8288039650741524496
+    second: Boss 5 (Arlong)p1 2_717
+  - first:
+      213: -280848683095914864
+    second: Boss 5 (Arlong)p1 2_718
+  - first:
+      213: -1896708497459700505
+    second: Boss 5 (Arlong)p1 2_719
+  - first:
+      213: -8009358510750155394
+    second: Boss 5 (Arlong)p1 2_720
+  - first:
+      213: -7489974577169708856
+    second: Boss 5 (Arlong)p1 2_721
+  - first:
+      213: -2140992648014838640
+    second: Boss 5 (Arlong)p1 2_722
+  - first:
+      213: -1477999802298468965
+    second: Boss 5 (Arlong)p1 2_723
+  - first:
+      213: -3872184237161709901
+    second: Boss 5 (Arlong)p1 2_724
+  - first:
+      213: 874940726764808259
+    second: Boss 5 (Arlong)p1 2_725
+  - first:
+      213: 105345506420433615
+    second: Boss 5 (Arlong)p1 2_726
+  - first:
+      213: -5238960102050618828
+    second: Boss 5 (Arlong)p1 2_727
+  - first:
+      213: 5112578035324764369
+    second: Boss 5 (Arlong)p1 2_728
+  - first:
+      213: 6091133501603598233
+    second: Boss 5 (Arlong)p1 2_729
+  - first:
+      213: -5881556267723985193
+    second: Boss 5 (Arlong)p1 2_730
+  - first:
+      213: 7604052867036410707
+    second: Boss 5 (Arlong)p1 2_731
+  - first:
+      213: -8894969476970713002
+    second: Boss 5 (Arlong)p1 2_732
+  - first:
+      213: 6403969313499938989
+    second: Boss 5 (Arlong)p1 2_733
+  - first:
+      213: -1057884138562030842
+    second: Boss 5 (Arlong)p1 2_734
+  - first:
+      213: -1433458918000174159
+    second: Boss 5 (Arlong)p1 2_735
+  - first:
+      213: 4098805087038371903
+    second: Boss 5 (Arlong)p1 2_736
+  - first:
+      213: -4621314678842549402
+    second: Boss 5 (Arlong)p1 2_737
+  - first:
+      213: -5164311422244517405
+    second: Boss 5 (Arlong)p1 2_738
+  - first:
+      213: 882217991668219122
+    second: Boss 5 (Arlong)p1 2_739
+  - first:
+      213: 3366794589156296924
+    second: Boss 5 (Arlong)p1 2_740
+  - first:
+      213: -4140454031788879632
+    second: Boss 5 (Arlong)p1 2_741
+  - first:
+      213: -1235598012911925561
+    second: Boss 5 (Arlong)p1 2_742
+  - first:
+      213: -6289267412126111872
+    second: Boss 5 (Arlong)p1 2_743
+  - first:
+      213: -7824346483939352855
+    second: Boss 5 (Arlong)p1 2_744
+  - first:
+      213: -3913715751991255979
+    second: Boss 5 (Arlong)p1 2_745
+  - first:
+      213: -5568435595759596976
+    second: Boss 5 (Arlong)p1 2_746
+  - first:
+      213: 2222095326682292616
+    second: Boss 5 (Arlong)p1 2_747
+  - first:
+      213: 7219102173310284881
+    second: Boss 5 (Arlong)p1 2_748
+  - first:
+      213: 3093544000434685589
+    second: Boss 5 (Arlong)p1 2_749
+  - first:
+      213: -6085239111456589405
+    second: Boss 5 (Arlong)p1 2_750
+  - first:
+      213: 7748329598731828055
+    second: Boss 5 (Arlong)p1 2_751
+  - first:
+      213: 4427933209056543561
+    second: Boss 5 (Arlong)p1 2_752
+  - first:
+      213: -2682719720572952026
+    second: Boss 5 (Arlong)p1 2_753
+  - first:
+      213: 2708986600169988896
+    second: Boss 5 (Arlong)p1 2_754
+  - first:
+      213: -2710665027911604710
+    second: Boss 5 (Arlong)p1 2_755
+  - first:
+      213: 5416819721146578182
+    second: Boss 5 (Arlong)p1 2_756
+  - first:
+      213: -5715662758459492565
+    second: Boss 5 (Arlong)p1 2_757
+  - first:
+      213: 7501194496910670702
+    second: Boss 5 (Arlong)p1 2_758
+  - first:
+      213: 4757819870601763993
+    second: Boss 5 (Arlong)p1 2_759
+  - first:
+      213: -7980030612103217386
+    second: Boss 5 (Arlong)p1 2_760
+  - first:
+      213: 3802345808206230153
+    second: Boss 5 (Arlong)p1 2_761
+  - first:
+      213: -90970210293783339
+    second: Boss 5 (Arlong)p1 2_762
+  - first:
+      213: 7133781316918358138
+    second: Boss 5 (Arlong)p1 2_763
+  - first:
+      213: -8402087879682230780
+    second: Boss 5 (Arlong)p1 2_764
+  - first:
+      213: 4146353800270091993
+    second: Boss 5 (Arlong)p1 2_765
+  - first:
+      213: -2009408572279234698
+    second: Boss 5 (Arlong)p1 2_766
+  - first:
+      213: -4317608154591286038
+    second: Boss 5 (Arlong)p1 2_767
+  - first:
+      213: 7794103450447138046
+    second: Boss 5 (Arlong)p1 2_768
+  - first:
+      213: -318929132932835505
+    second: Boss 5 (Arlong)p1 2_769
+  - first:
+      213: 7549142685008831550
+    second: Boss 5 (Arlong)p1 2_770
+  - first:
+      213: -2111168931023650529
+    second: Boss 5 (Arlong)p1 2_771
+  - first:
+      213: -5518407801438167500
+    second: Boss 5 (Arlong)p1 2_772
+  - first:
+      213: -3087147221321661160
+    second: Boss 5 (Arlong)p1 2_773
+  - first:
+      213: 3344849808700297016
+    second: Boss 5 (Arlong)p1 2_774
+  - first:
+      213: -5679791031979027953
+    second: Boss 5 (Arlong)p1 2_775
+  - first:
+      213: 4802362912744867738
+    second: Boss 5 (Arlong)p1 2_776
+  - first:
+      213: 7004403958916278963
+    second: Boss 5 (Arlong)p1 2_777
+  - first:
+      213: 1907287480684107510
+    second: Boss 5 (Arlong)p1 2_778
+  - first:
+      213: -7046894642375953284
+    second: Boss 5 (Arlong)p1 2_779
+  - first:
+      213: 8415224924236374379
+    second: Boss 5 (Arlong)p1 2_780
+  - first:
+      213: -1079639276230820850
+    second: Boss 5 (Arlong)p1 2_781
+  - first:
+      213: 1202216251889944202
+    second: Boss 5 (Arlong)p1 2_782
+  - first:
+      213: 8736960299088343223
+    second: Boss 5 (Arlong)p1 2_783
+  - first:
+      213: 3070696058177639835
+    second: Boss 5 (Arlong)p1 2_784
+  - first:
+      213: 6115488946207047902
+    second: Boss 5 (Arlong)p1 2_785
+  - first:
+      213: -906706107044804416
+    second: Boss 5 (Arlong)p1 2_786
+  - first:
+      213: -3973996271426876822
+    second: Boss 5 (Arlong)p1 2_787
+  - first:
+      213: 4479934206790681437
+    second: Boss 5 (Arlong)p1 2_788
+  - first:
+      213: 3808058613163383689
+    second: Boss 5 (Arlong)p1 2_789
+  - first:
+      213: -3363016860524345851
+    second: Boss 5 (Arlong)p1 2_790
+  - first:
+      213: -781873814926040913
+    second: Boss 5 (Arlong)p1 2_791
+  - first:
+      213: 8432692826266368676
+    second: Boss 5 (Arlong)p1 2_792
+  - first:
+      213: 6742418794191650978
+    second: Boss 5 (Arlong)p1 2_793
+  - first:
+      213: 1823274519258766016
+    second: Boss 5 (Arlong)p1 2_794
+  - first:
+      213: 2623316188425210017
+    second: Boss 5 (Arlong)p1 2_795
+  - first:
+      213: 6693111581593167281
+    second: Boss 5 (Arlong)p1 2_796
+  - first:
+      213: 8534577555842891212
+    second: Boss 5 (Arlong)p1 2_797
+  - first:
+      213: 2712460044988490083
+    second: Boss 5 (Arlong)p1 2_798
+  - first:
+      213: -2684572931501136461
+    second: Boss 5 (Arlong)p1 2_799
+  - first:
+      213: 6942738534957662969
+    second: Boss 5 (Arlong)p1 2_800
+  - first:
+      213: -8511014096009349067
+    second: Boss 5 (Arlong)p1 2_801
+  - first:
+      213: -3144164576266641949
+    second: Boss 5 (Arlong)p1 2_802
+  - first:
+      213: 5930837792709967486
+    second: Boss 5 (Arlong)p1 2_803
+  - first:
+      213: 2601140574436122038
+    second: Boss 5 (Arlong)p1 2_804
+  - first:
+      213: 145782502260855324
+    second: Boss 5 (Arlong)p1 2_805
+  - first:
+      213: -5056891732373614411
+    second: Boss 5 (Arlong)p1 2_806
+  - first:
+      213: 7569091839720326010
+    second: Boss 5 (Arlong)p1 2_807
+  - first:
+      213: 6231358673629336810
+    second: Boss 5 (Arlong)p1 2_808
+  - first:
+      213: -635490411514945378
+    second: Boss 5 (Arlong)p1 2_809
+  - first:
+      213: -2386802987538289064
+    second: Boss 5 (Arlong)p1 2_810
+  - first:
+      213: 2400902982232029022
+    second: Boss 5 (Arlong)p1 2_811
+  - first:
+      213: 4732735778099617499
+    second: Boss 5 (Arlong)p1 2_812
+  - first:
+      213: 6458785921188066730
+    second: Boss 5 (Arlong)p1 2_813
+  - first:
+      213: 7580673633041228724
+    second: Boss 5 (Arlong)p1 2_814
+  - first:
+      213: -81760273102533738
+    second: Boss 5 (Arlong)p1 2_815
+  - first:
+      213: 7578774889606410566
+    second: Boss 5 (Arlong)p1 2_816
+  - first:
+      213: 220137151505155286
+    second: Boss 5 (Arlong)p1 2_817
+  - first:
+      213: -3907066310670245100
+    second: Boss 5 (Arlong)p1 2_818
+  - first:
+      213: -7592935171755784846
+    second: Boss 5 (Arlong)p1 2_819
+  - first:
+      213: 8546374261597512746
+    second: Boss 5 (Arlong)p1 2_820
+  - first:
+      213: 4765539006470110123
+    second: Boss 5 (Arlong)p1 2_821
+  - first:
+      213: 5211642551703617101
+    second: Boss 5 (Arlong)p1 2_822
+  - first:
+      213: 8784171161259117067
+    second: Boss 5 (Arlong)p1 2_823
+  - first:
+      213: 3441576494158243146
+    second: Boss 5 (Arlong)p1 2_824
+  - first:
+      213: 7975010024222781973
+    second: Boss 5 (Arlong)p1 2_825
+  - first:
+      213: 3344310426930360667
+    second: Boss 5 (Arlong)p1 2_826
+  - first:
+      213: -7872527782527517710
+    second: Boss 5 (Arlong)p1 2_827
+  - first:
+      213: -7291570673983772599
+    second: Boss 5 (Arlong)p1 2_828
+  - first:
+      213: -8106561713596768192
+    second: Boss 5 (Arlong)p1 2_829
+  - first:
+      213: 8375829181712867943
+    second: Boss 5 (Arlong)p1 2_830
+  - first:
+      213: 3846384252885835914
+    second: Boss 5 (Arlong)p1 2_831
+  - first:
+      213: 3125167141092977891
+    second: Boss 5 (Arlong)p1 2_832
+  - first:
+      213: -8988413235532384651
+    second: Boss 5 (Arlong)p1 2_833
+  - first:
+      213: 7813779814282898737
+    second: Boss 5 (Arlong)p1 2_834
+  - first:
+      213: -678544049219132408
+    second: Boss 5 (Arlong)p1 2_835
+  - first:
+      213: -671725155479583419
+    second: Boss 5 (Arlong)p1 2_836
+  - first:
+      213: 764689922880401801
+    second: Boss 5 (Arlong)p1 2_837
+  - first:
+      213: -8185713964644689026
+    second: Boss 5 (Arlong)p1 2_838
+  - first:
+      213: 4820971309722338396
+    second: Boss 5 (Arlong)p1 2_839
+  - first:
+      213: -3073363650549925475
+    second: Boss 5 (Arlong)p1 2_840
+  - first:
+      213: 7026539263459741032
+    second: Boss 5 (Arlong)p1 2_841
+  - first:
+      213: 8197926094397828437
+    second: Boss 5 (Arlong)p1 2_842
+  - first:
+      213: -1131634454900409833
+    second: Boss 5 (Arlong)p1 2_843
+  - first:
+      213: -1056718320837772668
+    second: Boss 5 (Arlong)p1 2_844
+  - first:
+      213: 8344048793097343496
+    second: Boss 5 (Arlong)p1 2_845
+  - first:
+      213: 3015778189594673450
+    second: Boss 5 (Arlong)p1 2_846
+  - first:
+      213: -15122764593921261
+    second: Boss 5 (Arlong)p1 2_847
+  - first:
+      213: 380233878681535157
+    second: Boss 5 (Arlong)p1 2_848
+  - first:
+      213: -3560380910319654857
+    second: Boss 5 (Arlong)p1 2_849
+  - first:
+      213: 7307116945584850072
+    second: Boss 5 (Arlong)p1 2_850
+  - first:
+      213: 1223743282843935156
+    second: Boss 5 (Arlong)p1 2_851
+  - first:
+      213: 1810602138967666250
+    second: Boss 5 (Arlong)p1 2_852
+  - first:
+      213: 5107481636202860617
+    second: Boss 5 (Arlong)p1 2_853
+  - first:
+      213: 4663738726228869581
+    second: Boss 5 (Arlong)p1 2_854
+  - first:
+      213: 4955376541121005439
+    second: Boss 5 (Arlong)p1 2_855
+  - first:
+      213: -7909042095911222632
+    second: Boss 5 (Arlong)p1 2_856
+  - first:
+      213: 8306436411544071217
+    second: Boss 5 (Arlong)p1 2_857
+  - first:
+      213: 4034350389675314027
+    second: Boss 5 (Arlong)p1 2_858
+  - first:
+      213: -8819290844245849006
+    second: Boss 5 (Arlong)p1 2_859
+  - first:
+      213: 3942737790709730234
+    second: Boss 5 (Arlong)p1 2_860
+  - first:
+      213: 6678133248244528627
+    second: Boss 5 (Arlong)p1 2_861
+  - first:
+      213: -6813546115341902528
+    second: Boss 5 (Arlong)p1 2_862
+  - first:
+      213: -8426514573881433324
+    second: Boss 5 (Arlong)p1 2_863
+  - first:
+      213: -8788571271390589133
+    second: Boss 5 (Arlong)p1 2_864
+  - first:
+      213: 1898630696957005545
+    second: Boss 5 (Arlong)p1 2_865
+  - first:
+      213: -6910845395470254687
+    second: Boss 5 (Arlong)p1 2_866
+  - first:
+      213: 2402709089510741935
+    second: Boss 5 (Arlong)p1 2_867
+  - first:
+      213: 457110631400778736
+    second: Boss 5 (Arlong)p1 2_868
+  - first:
+      213: -1003253001634003409
+    second: Boss 5 (Arlong)p1 2_869
+  - first:
+      213: -3309274855658558093
+    second: Boss 5 (Arlong)p1 2_870
+  - first:
+      213: 9213493323442710533
+    second: Boss 5 (Arlong)p1 2_871
+  - first:
+      213: -2675389618846357491
+    second: Boss 5 (Arlong)p1 2_872
+  - first:
+      213: 987163269526403942
+    second: Boss 5 (Arlong)p1 2_873
+  - first:
+      213: -4839779591145080515
+    second: Boss 5 (Arlong)p1 2_874
+  - first:
+      213: 1453128647814841587
+    second: Boss 5 (Arlong)p1 2_875
+  - first:
+      213: -4670286322404834303
+    second: Boss 5 (Arlong)p1 2_876
+  - first:
+      213: 470839383046421536
+    second: Boss 5 (Arlong)p1 2_877
+  - first:
+      213: 501083690575687913
+    second: Boss 5 (Arlong)p1 2_878
+  - first:
+      213: -6060295710807587483
+    second: Boss 5 (Arlong)p1 2_879
+  - first:
+      213: 2630316864584663014
+    second: Boss 5 (Arlong)p1 2_880
+  - first:
+      213: 4435847424286998912
+    second: Boss 5 (Arlong)p1 2_881
+  - first:
+      213: 4848199969237138986
+    second: Boss 5 (Arlong)p1 2_882
+  - first:
+      213: 7445219027755913165
+    second: Boss 5 (Arlong)p1 2_883
+  - first:
+      213: 4788454771109754956
+    second: Boss 5 (Arlong)p1 2_884
+  - first:
+      213: -7530353523821115740
+    second: Boss 5 (Arlong)p1 2_885
+  - first:
+      213: -7655730292916069219
+    second: Boss 5 (Arlong)p1 2_886
+  - first:
+      213: 1557874624446030012
+    second: Boss 5 (Arlong)p1 2_887
+  - first:
+      213: 6481532820403166686
+    second: Boss 5 (Arlong)p1 2_888
+  - first:
+      213: -353914295398348010
+    second: Boss 5 (Arlong)p1 2_889
+  - first:
+      213: 8090801925414451963
+    second: Boss 5 (Arlong)p1 2_890
+  - first:
+      213: -6239490225469865307
+    second: Boss 5 (Arlong)p1 2_891
+  - first:
+      213: -3598961288015910100
+    second: Boss 5 (Arlong)p1 2_892
+  - first:
+      213: 1355902346645640174
+    second: Boss 5 (Arlong)p1 2_893
+  - first:
+      213: -4562519287060012933
+    second: Boss 5 (Arlong)p1 2_894
+  - first:
+      213: 8070146984529720024
+    second: Boss 5 (Arlong)p1 2_895
+  - first:
+      213: -5512791641582550381
+    second: Boss 5 (Arlong)p1 2_896
+  - first:
+      213: 2001682476401123991
+    second: Boss 5 (Arlong)p1 2_897
+  - first:
+      213: -2020898652485273823
+    second: Boss 5 (Arlong)p1 2_898
+  - first:
+      213: 6077859361622533978
+    second: Boss 5 (Arlong)p1 2_899
+  - first:
+      213: -6173105907659000306
+    second: Boss 5 (Arlong)p1 2_900
+  - first:
+      213: 6423965316348942789
+    second: Boss 5 (Arlong)p1 2_901
+  - first:
+      213: 8440140215009247026
+    second: Boss 5 (Arlong)p1 2_902
+  - first:
+      213: 7096599079364610559
+    second: Boss 5 (Arlong)p1 2_903
+  - first:
+      213: -319798407614239560
+    second: Boss 5 (Arlong)p1 2_904
+  - first:
+      213: -7495203984872029985
+    second: Boss 5 (Arlong)p1 2_905
+  - first:
+      213: -2224859424074009881
+    second: Boss 5 (Arlong)p1 2_906
+  - first:
+      213: -5173891012251321521
+    second: Boss 5 (Arlong)p1 2_907
+  - first:
+      213: -9090954430151514926
+    second: Boss 5 (Arlong)p1 2_908
+  - first:
+      213: -7973139906131972512
+    second: Boss 5 (Arlong)p1 2_909
+  - first:
+      213: -7042740853284051118
+    second: Boss 5 (Arlong)p1 2_910
+  - first:
+      213: 9073659972027489138
+    second: Boss 5 (Arlong)p1 2_911
+  - first:
+      213: 5183941027279367339
+    second: Boss 5 (Arlong)p1 2_912
+  - first:
+      213: 3322947620468625709
+    second: Boss 5 (Arlong)p1 2_913
+  - first:
+      213: 3981652784254529305
+    second: Boss 5 (Arlong)p1 2_914
+  - first:
+      213: -4128738825463717353
+    second: Boss 5 (Arlong)p1 2_915
+  - first:
+      213: 3120422550505127531
+    second: Boss 5 (Arlong)p1 2_916
+  - first:
+      213: 3905100762916854842
+    second: Boss 5 (Arlong)p1 2_917
+  - first:
+      213: -49608292883891577
+    second: Boss 5 (Arlong)p1 2_918
+  - first:
+      213: 6298440416731478474
+    second: Boss 5 (Arlong)p1 2_919
+  - first:
+      213: 8066641039030729661
+    second: Boss 5 (Arlong)p1 2_920
+  - first:
+      213: 7122349225516112807
+    second: Boss 5 (Arlong)p1 2_921
+  - first:
+      213: 4141467085449965731
+    second: Boss 5 (Arlong)p1 2_922
+  - first:
+      213: -414043103477715786
+    second: Boss 5 (Arlong)p1 2_923
+  - first:
+      213: -8329566539808490842
+    second: Boss 5 (Arlong)p1 2_924
+  - first:
+      213: -6337786131753463695
+    second: Boss 5 (Arlong)p1 2_925
+  - first:
+      213: 640602076119078427
+    second: Boss 5 (Arlong)p1 2_926
+  - first:
+      213: -5760484892704686598
+    second: Boss 5 (Arlong)p1 2_927
+  - first:
+      213: -1270270576767498124
+    second: Boss 5 (Arlong)p1 2_928
+  - first:
+      213: -1958122920773280059
+    second: Boss 5 (Arlong)p1 2_929
+  - first:
+      213: 2064299555804005206
+    second: Boss 5 (Arlong)p1 2_930
+  - first:
+      213: 5425514357840126589
+    second: Boss 5 (Arlong)p1 2_931
+  - first:
+      213: 2327740948483047629
+    second: Boss 5 (Arlong)p1 2_932
+  - first:
+      213: 5306637201181861790
+    second: Boss 5 (Arlong)p1 2_933
+  - first:
+      213: -5771842952863862407
+    second: Boss 5 (Arlong)p1 2_934
+  - first:
+      213: -5207253362672245587
+    second: Boss 5 (Arlong)p1 2_935
+  - first:
+      213: 8898554361578982249
+    second: Boss 5 (Arlong)p1 2_936
+  - first:
+      213: -5334625419252861323
+    second: Boss 5 (Arlong)p1 2_937
+  - first:
+      213: -4980327324372573916
+    second: Boss 5 (Arlong)p1 2_938
+  - first:
+      213: 9169006180669554341
+    second: Boss 5 (Arlong)p1 2_939
+  - first:
+      213: -5385200420495163400
+    second: Boss 5 (Arlong)p1 2_940
+  - first:
+      213: 4138717176427504217
+    second: Boss 5 (Arlong)p1 2_941
+  - first:
+      213: -6528974797144097134
+    second: Boss 5 (Arlong)p1 2_942
+  - first:
+      213: 3829817390970535176
+    second: Boss 5 (Arlong)p1 2_943
+  - first:
+      213: -8465199742033450149
+    second: Boss 5 (Arlong)p1 2_944
+  - first:
+      213: -7001868055024968146
+    second: Boss 5 (Arlong)p1 2_945
+  - first:
+      213: -4691038228919778986
+    second: Boss 5 (Arlong)p1 2_946
+  - first:
+      213: 2043195209553038066
+    second: Boss 5 (Arlong)p1 2_947
+  - first:
+      213: 6804269077200477417
+    second: Boss 5 (Arlong)p1 2_948
+  - first:
+      213: 3487219120734919304
+    second: Boss 5 (Arlong)p1 2_949
+  - first:
+      213: 7715521795222436310
+    second: Boss 5 (Arlong)p1 2_950
+  - first:
+      213: -2558738300172675700
+    second: Boss 5 (Arlong)p1 2_951
+  - first:
+      213: 2873010395655328152
+    second: Boss 5 (Arlong)p1 2_952
+  - first:
+      213: -1396364884957098140
+    second: Boss 5 (Arlong)p1 2_953
+  - first:
+      213: -1021750963548788899
+    second: Boss 5 (Arlong)p1 2_954
+  - first:
+      213: -1092680704847057911
+    second: Boss 5 (Arlong)p1 2_955
+  - first:
+      213: 2313726173902212320
+    second: Boss 5 (Arlong)p1 2_956
+  - first:
+      213: -4340536208939115008
+    second: Boss 5 (Arlong)p1 2_957
+  - first:
+      213: -989786914321696587
+    second: Boss 5 (Arlong)p1 2_958
+  - first:
+      213: 4368631582647244989
+    second: Boss 5 (Arlong)p1 2_959
+  - first:
+      213: -6862388338620449892
+    second: Boss 5 (Arlong)p1 2_960
+  - first:
+      213: -6029418824203584877
+    second: Boss 5 (Arlong)p1 2_961
+  - first:
+      213: 2858828886449973906
+    second: Boss 5 (Arlong)p1 2_962
+  - first:
+      213: -7900475290823118915
+    second: Boss 5 (Arlong)p1 2_963
+  - first:
+      213: -4873273064520710773
+    second: Boss 5 (Arlong)p1 2_964
+  - first:
+      213: 4235372228598640114
+    second: Boss 5 (Arlong)p1 2_965
+  - first:
+      213: 6416307403369518179
+    second: Boss 5 (Arlong)p1 2_966
+  - first:
+      213: -2502124758551892618
+    second: Boss 5 (Arlong)p1 2_967
+  - first:
+      213: 9053577703199212083
+    second: Boss 5 (Arlong)p1 2_968
+  - first:
+      213: 6880760727461724684
+    second: Boss 5 (Arlong)p1 2_969
+  - first:
+      213: -5318883691706284212
+    second: Boss 5 (Arlong)p1 2_970
+  - first:
+      213: -7956401153841793551
+    second: Boss 5 (Arlong)p1 2_971
+  - first:
+      213: 571817177360633263
+    second: Boss 5 (Arlong)p1 2_972
+  - first:
+      213: 4416675996822184566
+    second: Boss 5 (Arlong)p1 2_973
+  - first:
+      213: -4838227721511993539
+    second: Boss 5 (Arlong)p1 2_974
+  - first:
+      213: -5728785823203986779
+    second: Boss 5 (Arlong)p1 2_975
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 663
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa9aa3424f6ec110800000000000000
+      internalID: 1283085274240948909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 663
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99a8ebe75f156250800000000000000
+      internalID: 5937186146238376349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 663
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213b796aa59bb9b40800000000000000
+      internalID: 5448151973227901714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 663
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c648774fdb435d0800000000000000
+      internalID: -3083630987167109996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96f706470cc9aae0800000000000000
+      internalID: -1537473466158549345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 599
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92713162cdfb15870800000000000000
+      internalID: 8669921709917411113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 599
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290896176dc0538f0800000000000000
+      internalID: -561528463372484462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 599
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e901fa5e1ef15af0800000000000000
+      internalID: -409266684785784343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 599
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b0517a93326ac80800000000000000
+      internalID: -8311917331742389352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 599
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cd60318d7268840800000000000000
+      internalID: 5225908226595675229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa66f45692717a70800000000000000
+      internalID: 8822959134991608483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 535
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2563f5d2798904710800000000000000
+      internalID: 1675506836450522706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 535
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1265a22dc14f78010800000000000000
+      internalID: 1191189031085037089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 535
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbc92a4cdce3f660800000000000000
+      internalID: 7418533442090552267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 535
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793b6142a89345250800000000000000
+      internalID: 5932429874627523479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 535
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465e298883812cb80800000000000000
+      internalID: -8376105725867137692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea6aa7156793d690800000000000000
+      internalID: -7578547287489877276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 471
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4447cfaa151ac220800000000000000
+      internalID: 2506839346947507277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 471
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e64f72cfd02ac610800000000000000
+      internalID: 1642161159542884064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 471
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a290805fa487537a0800000000000000
+      internalID: -6398075432276063958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 471
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa3cb335c76df310800000000000000
+      internalID: 1440421552502618794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 471
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874049ad24cbae940800000000000000
+      internalID: 5326276504640029816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d27bbf22bfcbec0800000000000000
+      internalID: -3549686278604247777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 407
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a192a398ff6504eb0800000000000000
+      internalID: -4737691152474822374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 407
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32641ae592eef08a0800000000000000
+      internalID: -6336584289238301149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 407
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eb3c3f8ea58f300800000000000000
+      internalID: 286078532906630657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 407
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695fbc64d781c63c0800000000000000
+      internalID: -4365087012491102826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 407
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e35d0bdcc11ac7d0800000000000000
+      internalID: -2897483838713408536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc6ac935a3ae8330800000000000000
+      internalID: 3715086672661736661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 343
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b05f77220606e700800000000000000
+      internalID: 569149009231302833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 343
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b639d7c8af20a5e0800000000000000
+      internalID: -1900466640796436814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 343
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09d9f9d7d35514f0800000000000000
+      internalID: -858687967404107510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 343
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721c8d530c0e0a880800000000000000
+      internalID: -8601628172135907033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 343
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa5dd5c63bb8fee0800000000000000
+      internalID: -1227025054536213774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb550b56f00a0110800000000000000
+      internalID: 1227794906500914102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 279
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3736977b14984b90800000000000000
+      internalID: -7257387953816193222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 279
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4c5fd84a3d97c60800000000000000
+      internalID: 7816511331987997893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 279
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4ff0d48bf48f5f0800000000000000
+      internalID: -722740087207496467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 279
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ce8899064c426a0800000000000000
+      internalID: -6474834445080138614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 279
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601399f73140655d0800000000000000
+      internalID: -3074265213842149114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb0f451d9c26b270800000000000000
+      internalID: 8265843219264113652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 215
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308a4334eac2db200800000000000000
+      internalID: 197363085637625859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 215
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a08d61d3503c71d0800000000000000
+      internalID: -3351750886116458327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 215
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da78d71652a773a0800000000000000
+      internalID: -6667682232647779629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 215
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d12dd00dd0e76830800000000000000
+      internalID: 4064464428532048337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 215
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6019d8e23011cdf0800000000000000
+      internalID: -161830300767678356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03f0b0a9bfc3d9d0800000000000000
+      internalID: -2750626551221390582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 151
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae955d268da0bdd0800000000000000
+      internalID: -2472285403628593499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 151
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2aacb34209bf0f0800000000000000
+      internalID: -1082112800156114195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 151
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d53d3b849e425a30800000000000000
+      internalID: 4202507802188264916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 151
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf40cbe1d2b3c3da0800000000000000
+      internalID: -5963826741570173700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 151
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ac0d6f1f55177e0800000000000000
+      internalID: -1769538680863536557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b38a31b4a68a9400800000000000000
+      internalID: 331725564471313336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 87
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7487e24c72554a70800000000000000
+      internalID: 8810538939672134780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 87
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95062fea3684c910800000000000000
+      internalID: 1856756534061958556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 87
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bba7c0925d10eae0800000000000000
+      internalID: -1522184433597699143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 87
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740495cd517c4bd20800000000000000
+      internalID: 3293476124219752519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 87
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4ff170925db18d0800000000000000
+      internalID: -2874469564956019526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb26e0f33a513730800000000000000
+      internalID: 3977059125076306915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 23
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9e002bae7df0800800000000000000
+      internalID: 580920279962806691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 23
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6217398da343e8f0800000000000000
+      internalID: -512491519979613587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 23
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98738659a5549d440800000000000000
+      internalID: 4961072719881320329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 23
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e744164550d28cb40800000000000000
+      internalID: 5460664049100473470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 5 (Arlong)p1 2_63
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 23
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a70be7d2198a6d0800000000000000
+      internalID: -2978971528920532426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

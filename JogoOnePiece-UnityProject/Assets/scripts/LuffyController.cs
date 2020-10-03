@@ -39,6 +39,7 @@ public class LuffyController : MonoBehaviour
 
         if (OnCrouchEvent == null)
             OnCrouchEvent = new BoolEvent();
+
     }
 
     private void FixedUpdate()

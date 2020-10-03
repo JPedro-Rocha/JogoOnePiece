@@ -36,15 +36,16 @@ public class perdeAoCair : MonoBehaviour
         plataformaSpawned = false;
         while (!plataformaSpawned)
         {
-            Vector3 platformPosition = new Vector3(Random.Range(-7f, 7f), player.transform.position.y +
-            (5 + Random.Range(-10f, 10f)), 0f);
+            //Vector3 platformPosition = new Vector3(Random.Range(-15f, 15f), player.transform.position.y +
+            //Random.Range(3f, 5 f), 0f);
+            Vector3 platformPosition = Random.insideUnitCircle * 7;
             if ((platformPosition - player.transform.position).magnitude < 5)
             {
                 continue;
             }
             else
             {
-                Instantiate(plataforma, platformPosition, Quaternion.identity);
+                Instantiate(plataforma, platformPosition + player.transform.position, Quaternion.identity);
                 plataformaSpawned = true;
             }
         }

@@ -24,7 +24,9 @@ public class perdeAoCair : MonoBehaviour
 
     void FixedUpdate()
     {
-        rb.AddForce(transform.up * moveSpeed);
+        //rb.AddForce(transform.up * moveSpeed);
+        rb.transform.position += transform.up * Time.deltaTime * moveSpeed;
+
     }
 
     void OnTriggerEnter2D(Collider2D collider)
@@ -33,7 +35,9 @@ public class perdeAoCair : MonoBehaviour
 
         Vector3 plataformaPosicao = new Vector3(Random.Range(-6.5f, 6.5f), player.transform.position.y +
                                                 (2 + Random.Range(0.5f, 1.5f)));
-        Instantiate(plataforma, plataformaPosicao, Quaternion.identity);
+        //Instantiate(plataforma, plataformaPosicao, Quaternion.identity);//correto
+
+
         /*plataformaSpawned = false;
         while (!plataformaSpawned)
         {

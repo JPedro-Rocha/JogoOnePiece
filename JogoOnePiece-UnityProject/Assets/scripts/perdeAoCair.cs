@@ -8,7 +8,7 @@ public class perdeAoCair : MonoBehaviour
     public GameObject player;
     public GameObject plataforma;
     public Rigidbody2D rb;
-    public float moveSpeed = 10f;
+    public float moveSpeed = 1f;
     private bool plataformaSpawned;
     // Start is called before the first frame update
     void Start()
@@ -30,24 +30,22 @@ public class perdeAoCair : MonoBehaviour
     void OnTriggerEnter2D(Collider2D collider)
     {
         Destroy(collider.gameObject);
-        /*Instantiate(plataforma, new Vector2(Random.Range(-10.5f, 10.5f), player.transform.position.y +
-                   (5 + Random.Range(0.5f, 1f))), Quaternion.identity);*/
 
-        plataformaSpawned = false;
+        Vector3 plataformaPosicao = new Vector3(Random.Range(-6.5f, 6.5f), player.transform.position.y +
+                                                (2 + Random.Range(0.5f, 1.5f)));
+        Instantiate(plataforma, plataformaPosicao, Quaternion.identity);
+        /*plataformaSpawned = false;
         while (!plataformaSpawned)
         {
-            //Vector3 platformPosition = new Vector3(Random.Range(-15f, 15f), player.transform.position.y +
-            //Random.Range(3f, 5 f), 0f);
-            Vector3 platformPosition = Random.insideUnitCircle * 7;
             if ((platformPosition - player.transform.position).magnitude < 5)
             {
                 continue;
             }
             else
             {
-                Instantiate(plataforma, platformPosition + player.transform.position, Quaternion.identity);
+                Instantiate(plataforma, platformPosition, Quaternion.identity);
                 plataformaSpawned = true;
             }
-        }
+        }*/
     }
 }

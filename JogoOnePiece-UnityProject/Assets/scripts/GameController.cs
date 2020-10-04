@@ -26,6 +26,10 @@ public class GameController : MonoBehaviour
     void Update()
     {
 
+    } 
+
+    public void instanciarItens(){
+        
     }
 
     public void spawPlataformas()

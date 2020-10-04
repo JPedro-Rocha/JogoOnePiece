@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class perdeAoCair : MonoBehaviour
 {
@@ -9,7 +10,8 @@ public class perdeAoCair : MonoBehaviour
     public GameObject plataforma;
     public Rigidbody2D rb;
     public float moveSpeed = 1f;
-    private bool plataformaSpawned;
+    private bool plataformaSpawned; 
+
     // Start is called before the first frame update
     void Start()
     {
@@ -30,9 +32,18 @@ public class perdeAoCair : MonoBehaviour
     }
 
     void OnTriggerEnter2D(Collider2D collider)
-    {
-        Destroy(collider.gameObject);
-
+    {   
+        
+        
+        if(collider.gameObject.tag.Equals("Player")){
+            SceneManager.LoadScene ("GameOver");
+            
+        }
+        else{
+            Destroy(collider.gameObject);
+        }
+        
+        
         Vector3 plataformaPosicao = new Vector3(Random.Range(-6.5f, 6.5f), player.transform.position.y +
                                                 (2 + Random.Range(0.5f, 1.5f)));
         //Instantiate(plataforma, plataformaPosicao, Quaternion.identity);//correto

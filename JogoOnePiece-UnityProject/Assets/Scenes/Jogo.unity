@@ -746,10 +746,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   plataforma: {fileID: 5904195794619787091, guid: aebef65ca19bf484796366d39ebb9f66,
     type: 3}
+  plataformaMovel: {fileID: 7208466341344753543, guid: 3a3c21085c8300b4f993a94b9b55127b,
+    type: 3}
+  plataformaFragil: {fileID: 5181450072065827448, guid: 5b53b0e0f8d8b7e428e27dcee2aa8fbc,
+    type: 3}
   larguraLevel: 7
   numeroPlataformas: 200
   minY: 2
   maxY: 3
+  controle: 0
 --- !u!1 &964784980
 GameObject:
   m_ObjectHideFlags: 0
@@ -1070,7 +1075,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1262747169
 Transform:
   m_ObjectHideFlags: 0

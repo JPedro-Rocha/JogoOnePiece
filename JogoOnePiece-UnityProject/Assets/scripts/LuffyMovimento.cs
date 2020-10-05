@@ -25,7 +25,7 @@ public class LuffyMovimento : MonoBehaviour
     void FixedUpdate()
     {
         controller.Move(Input.GetAxisRaw("Horizontal") * runSpeed * Time.fixedDeltaTime, false, jump);
-        jump = false;
+        jump = false; 
     }
 
     public void OnLanding()

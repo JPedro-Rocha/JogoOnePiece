@@ -26,7 +26,7 @@ public class plataformaFragil : MonoBehaviour
 
     public void OnCollisionEnter2D(Collision2D collision){
         
-        if(collision.gameObject.tag == "Player"){
+        if(collision.gameObject.tag == "Player" && collision.gameObject.GetComponent<Rigidbody2D>().velocity.y <= 0){
             Invoke("queda", time);
         }
 

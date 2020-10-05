@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 5354380714706915983}
   m_Layer: 0
   m_Name: plataformaComAlter
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

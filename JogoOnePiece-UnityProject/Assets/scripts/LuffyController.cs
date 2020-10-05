@@ -18,7 +18,8 @@ public class LuffyController : MonoBehaviour
     const float k_CeilingRadius = .2f; // Radius of the overlap circle to determine if the player can stand up
     private Rigidbody2D m_Rigidbody2D;
     private bool m_FacingRight = true;  // For determining which way the player is currently facing.
-    private Vector3 m_Velocity = Vector3.zero;
+    private Vector3 m_Velocity = Vector3.zero; 
+    //private Rigidbody2D body2D = GetComponent<Rigidbody2D>();
 
     [Header("Events")]
     [Space]
@@ -29,7 +30,7 @@ public class LuffyController : MonoBehaviour
     public class BoolEvent : UnityEvent<bool> { }
 
     public BoolEvent OnCrouchEvent;
-    private bool m_wasCrouching = false;
+    private bool m_wasCrouching = false; 
 
     private void Awake()
     {
@@ -149,7 +150,7 @@ public class LuffyController : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.tag.Equals("Plataforma"))
+        if (col.gameObject.tag.Equals("Plataforma") && m_Rigidbody2D.velocity.y <= 0)
         {
             gameController.aumentarScore();
             col.gameObject.tag = "PlataformaTocada";
